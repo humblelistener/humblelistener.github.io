@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "Understanding optional parameters in c#"
-modified:
-categories: blog
-excerpt:
-tags: [optional-parameters-c#]
-image:
-  feature:
 date: 2012-12-16
+categories:
+  - programming
+  - c#
+description:
+image: https://source.unsplash.com/collection/599894/800x600
+image-sm: https://source.unsplash.com/collection/599894/1600x900
 ---
 
 C# and its optional parameters - a language feature..
@@ -22,10 +22,7 @@ Look at this simple piece of code below,</span>
 
 When you disassemble these methods, you will see that the C\# compiler
 actually replaced the call to TestMethod with one parameter to a call
-with both the parameters. The screen shot from ildasm proves
-that,
-
-![](https://raw.githubusercontent.com/humblelistener/humblelistener.github.io/master/images/posts-images/demystify-optional-params-c%23-1.png)
+with both the parameters.
 
 
 The implication is that methods utilizing optional parameters cannot be

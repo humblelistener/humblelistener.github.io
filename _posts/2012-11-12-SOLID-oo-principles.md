@@ -1,13 +1,12 @@
 ---
 layout: post
 title: "SOLID principles - primer"
-modified:
-categories: blog
-excerpt:
-tags: [object oriented programming, single responsibility, SOLID, open-closed principles, Substitution, interface segregation, dependency injection]
-image:
-  feature:
 date: 2012-11-12
+categories:
+  - programming
+description:
+image: https://source.unsplash.com/collection/599894/800x600
+image-sm: https://source.unsplash.com/collection/599894/1600x900
 ---
 
 SOLID Principles - primer

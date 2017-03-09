@@ -1,16 +1,16 @@
 ---
 layout: post
 title: "Understanding async keyword in c#"
-modified:
-categories: blog
-excerpt:
-tags: [async keyword c#, understanding async keyword]
-image:
-  feature:
 date: 2012-12-16
+categories:
+  - programming
+  - c#
+description:
+image: https://source.unsplash.com/collection/599894/800x600
+image-sm: https://source.unsplash.com/collection/599894/1600x900
 ---
 
-Undestanding how async keyword works in c# 
+Understanding how async keyword works in c#
 
 So, c# 5 introduced a new keyword to simplify asynchronous programming
 by the introduction of await keyword. Functionally this keyword will
@@ -76,10 +76,6 @@ internal class PersonDetails
 }
 
 ```
-
-Disassemble the above code and you will see,
-
-![](https://raw.githubusercontent.com/humblelistener/humblelistener.github.io/master/images/posts-images/demystify-async-keyword-c%23-1.png)
 
 
 There are few things, that I want to bring it up,

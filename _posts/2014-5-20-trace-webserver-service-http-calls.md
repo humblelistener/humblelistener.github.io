@@ -1,13 +1,12 @@
 ---
 layout: post
-title: "Way to debug http requests from a webserver"
-modified:
-categories: blog
-excerpt:
-tags: [fiddler, webservice-debug]
-image:
-  feature:
+title: "Profile http requests made by webserver"
 date: 2014-05-20
+categories:
+  - programming
+description:
+image: https://source.unsplash.com/collection/599894/800x600
+image-sm: https://source.unsplash.com/collection/599894/1600x900
 ---
 
 Tracing http requests made from server

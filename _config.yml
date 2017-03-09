@@ -1,16 +1,16 @@
 # Site settings
-email:
+email: "humblelistener@icloud.com"
 baseurl: ""
 paginate: 5
 paginate_path: "/blog/page-:num"
 google_analytics: "UA-74278809-1"
 
 # SEO settings
-title: "humblelistener"
+title: "some writings from a humblelistener"
 description:
-url: ""
+url: "https://humblelistener.github.io"
 twitter_username: "@humblelistener"
-default_img:
+default_img: 
 
 # Profile settings
 name: "P Karthikeyan"

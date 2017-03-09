@@ -1,13 +1,12 @@
 ---
 layout: post
 title: "Moved on from Mindtree to Readify"
-modified:
-categories: blog
-excerpt:
-tags: []
-image:
-  feature:
 date: 2013-05-21
+categories:
+  - career
+description:
+image: https://source.unsplash.com/collection/599894/800x600
+image-sm: https://source.unsplash.com/collection/599894/1600x900
 ---
 
 For all those who did not know..
@@ -34,7 +33,7 @@ So, I started with them this May and have already touched upon a couple of gigs.
 Currently in the seek.com.au's gig, I am working along with highly motivated Seek's team to develop their website.
 
 
-In this role, I will be using my client side MVC knowledge and experience are to be leveraged, which I am looking forward this as an opportunity to hone my skills in this space and learn a few interesting and new client side frameworks and tools. 
+In this role, I will be using my client side MVC knowledge and experience are to be leveraged, which I am looking forward this as an opportunity to hone my skills in this space and learn a few interesting and new client side frameworks and tools.
 
 Catch you all in the next blog... thanks for reading..
 Couple of references about Readify

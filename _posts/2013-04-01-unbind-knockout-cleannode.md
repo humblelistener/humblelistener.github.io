@@ -1,13 +1,12 @@
 ---
 layout: post
 title: "Unbind element in knockout using cleanNode"
-modified:
-categories: blog
-excerpt:
-tags: []
-image:
-  feature:
 date: 2013-01-04
+categories:
+  - programming
+description:
+image: https://source.unsplash.com/collection/599894/800x600
+image-sm: https://source.unsplash.com/collection/599894/1600x900
 ---
 
 Unbind element in Knockout using cleanNode
@@ -43,13 +42,11 @@ Fortunately, knockout had this feature already that is available through ko.clea
 
 So, once I started calling this function every time before binding the view to view model the issue was fixed.
 
-<b>Points to note:</b>
-<ul>
+### Points to note:
+<ol>
 <li>You have to unbind the DOM element / view every time before binding it with knockout again.</li>
 <li>Turn off the Backbone events before you are about to lose the reference to your JavaScript object.</li>
-</ul>
+</ol>
 
-<b>References:</b>
-While debugging this, I found <a href="http://lostechies.com/derickbailey/2011/09/15/zombies-run-managing-page-transitions-in-backbone-apps/">this wonderful article</a> that helped be understand the cleaning up required in javascript.
-
-<script src="https://raw.github.com/moski/gist-Blogger/master/public/gistLoader.js" type="text/javascript"></script>
+*References:*
+While debugging this, I found [this wonderful article](http://lostechies.com/derickbailey/2011/09/15/zombies-run-managing-page-transitions-in-backbone-apps) that helped be understand the cleaning up required in javascript.
