@@ -10,14 +10,16 @@ title: "some writings from a humblelistener"
 description:
 url: "https://humblelistener.github.io"
 twitter_username: "@humblelistener"
-default_img: 
+default_img:
 
 # Profile settings
 name: "P Karthikeyan"
-profile_img:
-profile:
+profile_img: https://source.unsplash.com/azbZUNpu1Ag/1600x900
+profile: humblelistener is a software engineering professional and a human.
 social:
-  github: "https://github.com/humblelistener"
+  github: https://github.com/humblelistener
+  linkedin: https://linkedin.com/humblelistener
+  twitter: https://twitter.com/humblelistener
 
 # Build settings
 exclude: ["_screenshots", "Gemfile", "Gemfile.lock", "LICENSE.txt", "README.md"]
