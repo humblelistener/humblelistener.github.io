@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "An Enabling CI system"
+comments: true
 date: 2016-06-23
 categories:
   - programming
