@@ -22,7 +22,7 @@ social:
   twitter: https://twitter.com/humblelistener
 
 # Build settings
-category_dir:
+category_dir: "category"
 include: ["_categories"]
 exclude: ["_screenshots", "Gemfile", "Gemfile.lock", "LICENSE.txt", "README.md"]
 markdown: kramdown
