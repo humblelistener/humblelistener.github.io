@@ -1,0 +1,337 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>SOLID principles - primer | some writings from a humblelistener</title>
+  <meta name="author" content="P Karthikeyan">
+  <meta name="description" content="">
+  <meta property="og:title" content="SOLID principles - primer | some writings from a humblelistener">
+  <meta property="og:url" content="http://localhost:4000/2012/11/12/SOLID-oo-principles/">
+  <meta property="og:site_name" content="some writings from a humblelistener">
+  <meta property="og:description" content="">
+  <meta property="og:image" content="https://source.unsplash.com/collection/599894/800x600">
+  <meta property="og:type" content="blog">
+
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:description" content="">
+  <meta name="twitter:title" content="SOLID principles - primer | some writings from a humblelistener">
+  <meta name="twitter:url" content="http://localhost:4000/2012/11/12/SOLID-oo-principles/">
+  <meta name="twitter:site" content="some writings from a humblelistener">
+  <meta name="twitter:creator" content="@@humblelistener">
+  <meta name="twitter:domain" content="http://localhost:4000">
+  <meta property="twitter:image" content="https://source.unsplash.com/collection/599894/800x600">
+
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Inconsolata|Lora|Space+Mono:700">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/4.2.0/normalize.min.css">
+  <link rel="stylesheet" href="/assets/css/main.css">
+
+  <link rel="alternate" type="application/rss+xml" title="some writings from a humblelistener" href="http://localhost:4000/feed.xml">
+  <link rel="canonical" href="http://localhost:4000/2012/11/12/SOLID-oo-principles/">
+
+  
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+      ga('create', 'UA-74278809-1', 'auto');
+      ga('send', 'pageview');
+    </script>
+  
+</head>
+
+
+  <body>
+
+    <main>
+      <article itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="section-padding--lg mast rellax" data-rellax-speed="-4">
+    <a class="nav nav--white" href="/">
+      <i class="fa fa-lg fa-arrow-left"></i>
+      <span>Back to Posts</span>
+    </a>
+    <figure class="absolute-bg mast__img" style="background-image: url('https://source.unsplash.com/collection/599894/800x600');"></figure>
+    <div class="mast__container">
+      <span><time datetime="2012-11-12T00:00:00+11:00" itemprop="datePublished">Nov 12, 2012</time></span>
+      <h1 itemprop="name headline">SOLID principles - primer</h1>
+      
+        <span>Posted in
+          
+            <a class="nav--white" href="/category/programming">programming</a>
+          
+        </span>
+      
+      <span></span>
+    </div>
+  </header>
+
+  <section class="section-padding bg-grey" itemprop="articleBody">
+    <div class="post">
+      <p>SOLID Principles - primer</p>
+
+<p><strong>S –Single responsibility principle</strong></p>
+
+<p>Wikipedia defines it as <strong>every class should have a single
+responsibility, and that responsibility should be entirely encapsulated
+by the class</strong></p>
+
+<p>The idea behind this principle is that, any change should only be
+limited to a class that is responsible for that feature. None of the
+dependent classes or consumers should have to be modified to adjust to
+this change.</p>
+
+<p><em>What is the advantage?</em></p>
+
+<p>By following this principle, we can limit the number of places we have
+to change the code for a single change in a feature. This directs
+reduces the cyclomatic complexity.</p>
+
+<p>Other than the metric advantage mentioned above, following this
+principle leads to</p>
+
+<ul>
+  <li>Simplicity in the design / code</li>
+  <li>Makes design / code easily understandable</li>
+  <li>Increases maintainability and increases engineers good karma</li>
+</ul>
+
+<p><strong>O –Open/closed principle</strong></p>
+
+<p>Wikipedia definition says <em>software entities (classes, modules,
+functions, etc.) should be open for extension, but closed for
+modification</em></p>
+
+<p>If you know the code that you are writing is susceptible to change when
+you are writing it – it is a good candidate for applying this principle.
+However if the developer is new for the domain and is not able to
+predict that the possible change coming (which happens most of the
+time), it is fine to write the simplest piece of code that works.</p>
+
+<p>Although, the moment he realizes that there is change coming, he should
+be ready to refactor and apply this principle. The next time change
+comes, the code modification should be an extension rather than
+modification.</p>
+
+<p>This technique can be summarized by the below funny statements</p>
+
+<ul>
+  <li>“Fool me once, shame on you; fool me twice, shame on me”</li>
+</ul>
+
+<p>Ideally any software design should be closed for modifications and open
+for extensions – which is very tough. The best person to guess this is
+the developer / designer – who will be the only person knowing what
+areas of his code are susceptible to change.</p>
+
+<p>The design patterns that come to rescue when you encounter candidates
+for this principle are</p>
+
+<ul>
+  <li>
+    <p>Template method pattern – Rely on abstraction</p>
+  </li>
+  <li>
+    <p>Strategy pattern – rely on composition.</p>
+  </li>
+</ul>
+
+<p>Or simply sometimes adding parameters to the function can be very
+effective.</p>
+
+<p><strong>L – Liskov Substitution Principle</strong></p>
+
+<p>Wikipedia definition - <em>“if S is a subtype of T, then objects of type T
+may be replaced with objects of type ”</em></p>
+
+<p>The converse of this theory in simple terms is - “<em>If it looks like a
+duck and sounds like a duck, but needs batteries then it may well not be
+a substitutable duck</em>”.</p>
+
+<p>There is paradigm shift between how you look at inheritance in this
+principle - “IS-A” relation is replaced by “IS-SUBSTITUTABLE-FOR”
+relationship.</p>
+
+<p>The primary objective of this design is - the calling code should not
+know the difference between the base type and a sub type. Irrespective
+of the actual type being passed, the calling code should be able to do
+all the operation.</p>
+
+<p>Another variance where this principle can be applied is when the subtype
+does not implement only one (or few) operations of the base type. This
+could well mean that they are not exactly replaceable substitutes.</p>
+
+<p>This happens when either when the interfaces or base classes are not
+properly segregated (candidate for the next principle: Interface
+segregation) or when “IS-SUBSTITUTABLE-FOR” principle is simply broken.</p>
+
+<p><em>How do you identify them in your code?</em></p>
+
+<p>Any part of code where you have to convert a base type to a specific
+type to do an operation – then the code violates this principle and
+requires refactoring.</p>
+
+<p>Any operation that can be performed on a subtype but cannot be done on
+another subtype with the same parent, then this principle is
+compromised.</p>
+
+<p><strong>I – Interface Segregation Principle</strong></p>
+
+<p>For this principle, class and interface are interchangeable terms. Any
+class is considered an implementation of interface although interface
+may not have been abstracted.</p>
+
+<p>I wasn’t able to find a slick definition of this principle in wiki – so
+let use this</p>
+
+<p><em>“Clients should not be forced to depend on methods they do not use.”</em></p>
+
+<p><em>Corollary – prefer small, cohesive interfaces to “fat” interfaces.</em></p>
+
+<p><em>Whenever possible, let the client define the interface.</em></p>
+
+<p>When client unit needs only a few operations, support only those
+operation from your interface – any other methods in the interface are
+just nonsense for the client and could increase complexity of the code.</p>
+
+<p>Interface segregation violations result in classes that depend on things
+they do not need, increasing coupling and reducing flexibility and
+maintainability.</p>
+
+<p>Interfaces with unimplemented interface methods are also candid for this
+principle (as they are for Liskov Substitution principle)</p>
+
+<p>Doctor’s prescription notes for interface segregation</p>
+
+<ul>
+  <li>
+    <p>Client references an interface but only uses a portion of it – refactor
+it using façade without touching the interface until the more pain is
+localized in this region (notice façade pattern to the rescue).</p>
+  </li>
+  <li>
+    <p>If you have a fat interface and facing problem with it – consider
+breaking what you need into smaller interface and let the fat interface
+inherit this new one.</p>
+  </li>
+  <li>
+    <p>If you have problem using a fat interface that you do not own – consider
+creating a smaller interface that acts as an adapter around the fat
+interface and use it – (notice adapter pattern to the rescue).</p>
+  </li>
+</ul>
+
+<p><strong>D – Dependency Inversion / Inversion of control</strong></p>
+
+<p>Off late this principle has become very common with the advent of a
+wonderful reference implementation available with us in the form of
+ASP.NET MVC Framework – This statement is targeted only at .NET
+developers.</p>
+
+<p>Wikipedia definition –
+a. <em>High level
+modules should not depend on low level modules. Both should depend on
+abstractions.</em></p>
+
+<p>b. <em>Abstractions should not depend upon details. Details should
+depend upon abstractions.</em></p>
+
+<p>One very good example that I read about that suits well for dependency
+inversion are electrical plugs/ sockets. How? All electrical appliance
+depend on electricity, just because it is dependent they are not
+directly connected to electrical wires running behind the wall. Instead
+we use plugs / sockets. By using this we invert the dependency by giving
+the flexibility of connecting to a wire behind the wall or connecting to
+UPS box based on the need. Because appliances are not bothered where the
+electricity comes from it makes sense. Here plugs / sockets are
+abstractions. Appliance and Electricity are details – which depend on
+the abstractions.</p>
+
+<p><em>How do I identify the candid’s for this principle?</em></p>
+
+<p>Anything that you are not able to unit test effectively without
+depending on the environment are all candid’s for this principle.</p>
+
+<p><em>How do I make them follow this principle?</em></p>
+
+<p>In simple one line answer is “use dependency injection”.</p>
+
+<p><em>How do I identify them when designing or implementing?</em></p>
+
+<p>Honestly identify the dependencies that are in your implementation. Once
+you are able to identify it, design your code around to allow these
+dependencies to be injected from outside.</p>
+
+<p>I know this statement is cruel, considering Framework classes and static
+methods from Framework. Considers Microsoft Fakes if you are bothered
+about it. Especially if you are working on a maintenance project and
+trying to follow this principle you will appreciate Fakes library’s –
+shim concept.</p>
+
+<p>For dependency injection again, there are multiple frameworks available
+like (Unity, Ninject etc.. ) which all really good.</p>
+
+<p>More references on dependency injection and this principle</p>
+
+<p><a href="http://martinfowler.com/articles/injection.html">Dependency injection by Martin Fowler</a></p>
+
+<p><a href="http://msdn.microsoft.com/en-us/library/hh549175.aspx">More reference</a></p>
+
+<p>As I wrote, I realized that I can only the surface of these principles
+here. You can consider this place to get an idea of these principles and
+can dive deep in internet based on the principles of your interest.</p>
+
+<p>I also suggest reading <strong><em>Robert C Martin’s – “Clean Code”</em></strong> book. I strongly feel every software engineer should have read this book.</p>
+
+    </div>
+  </section>
+
+  <section class="profile">
+    <div class="profile__card">
+      <div class="profile__img">
+        <figure class="absolute-bg" style="background-image: url('https://source.unsplash.com/azbZUNpu1Ag/1600x900');"></figure>
+      </div>
+      <div class="profile__container">
+        <p>humblelistener is a software engineering professional and a human.</p>
+        
+          <ul class="profile__social">
+            
+              <li><a class="fa fa-lg fa-envelope-o" href="mailto:humblelistener@icloud.com"></a></li>
+            
+            
+              <li><a class="fa fa-lg fa-github" href="https://github.com/humblelistener" target="_blank"></a></li>
+            
+              <li><a class="fa fa-lg fa-linkedin" href="https://linkedin.com/humblelistener" target="_blank"></a></li>
+            
+              <li><a class="fa fa-lg fa-twitter" href="https://twitter.com/humblelistener" target="_blank"></a></li>
+            
+          </ul>
+        
+      </div>
+    </div>
+  </section>
+  <footer>
+    
+
+  </footer>
+</article>
+
+
+
+    </main>
+
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/rellax/1.0.0/rellax.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.min.js"></script>
+<script type="text/javascript" src="/assets/js/app.js"></script>
+<script id="dsq-count-scr" src="//humblelistener.disqus.com/count.js" async></script>
+
+
+  </body>
+
+</html>
