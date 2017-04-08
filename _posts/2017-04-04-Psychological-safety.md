@@ -86,7 +86,7 @@ _"Team sharing jokes"_
 _"building the best teams meant combining the best people"_
 
 
-### Impact on Psychological safety on team performance
+### Impact of Psychological safety on team performance
 
 Below is the picture representing the [four stages of group development by Bruce Tuckman](https://en.wikipedia.org/wiki/Tuckman%27s_stages_of_group_development)
 
@@ -99,7 +99,7 @@ A psychologically safe environment helps expedite forming and storming phase and
 
 #### Closing comments
 
-This post has taken inspirations from several publications and articles about Psychological safety. One of the noteworthy post what the [learnings of Psychological safety from google](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html?_r=0).
+This post has taken inspirations from several publications and articles about Psychological safety. One of the noteworthy post, the [learnings of Psychological safety from google](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html?_r=0).
 
 ** What are your thoughts? **
 
