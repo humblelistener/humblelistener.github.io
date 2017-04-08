@@ -3,10 +3,10 @@
   <channel>
     <title>some writings from a humblelistener</title>
     <description></description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 09 Apr 2017 00:40:29 +1000</pubDate>
-    <lastBuildDate>Sun, 09 Apr 2017 00:40:29 +1000</lastBuildDate>
+    <link>https://humblelistener.github.io/</link>
+    <atom:link href="https://humblelistener.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 09 Apr 2017 01:10:46 +1000</pubDate>
+    <lastBuildDate>Sun, 09 Apr 2017 01:10:46 +1000</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
     
       <item>
@@ -77,7 +77,7 @@
 
 &lt;p&gt;&lt;em&gt;“building the best teams meant combining the best people”&lt;/em&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;impact-on-psychological-safety-on-team-performance&quot;&gt;Impact on Psychological safety on team performance&lt;/h3&gt;
+&lt;h3 id=&quot;impact-of-psychological-safety-on-team-performance&quot;&gt;Impact of Psychological safety on team performance&lt;/h3&gt;
 
 &lt;p&gt;Below is the picture representing the &lt;a href=&quot;https://en.wikipedia.org/wiki/Tuckman%27s_stages_of_group_development&quot;&gt;four stages of group development by Bruce Tuckman&lt;/a&gt;&lt;/p&gt;
 
@@ -88,15 +88,15 @@ image credit &lt;a href=&quot;http://www.aleanjourney.com/2011/04/stages-of-high
 
 &lt;h4 id=&quot;closing-comments&quot;&gt;Closing comments&lt;/h4&gt;
 
-&lt;p&gt;This post has taken inspirations from several publications and articles about Psychological safety. One of the noteworthy post what the &lt;a href=&quot;https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html?_r=0&quot;&gt;learnings of Psychological safety from google&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;This post has taken inspirations from several publications and articles about Psychological safety. One of the noteworthy post, the &lt;a href=&quot;https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html?_r=0&quot;&gt;learnings of Psychological safety from google&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;** What are your thoughts? **&lt;/p&gt;
 
 &lt;p&gt;** What do you think helped you feel safe when last time you found yourselves in a safe group set up? **&lt;/p&gt;
 </description>
         <pubDate>Tue, 04 Apr 2017 00:00:00 +1000</pubDate>
-        <link>http://localhost:4000/2017/04/04/Psychological-safety/</link>
-        <guid isPermaLink="true">http://localhost:4000/2017/04/04/Psychological-safety/</guid>
+        <link>https://humblelistener.github.io/2017/04/04/Psychological-safety/</link>
+        <guid isPermaLink="true">https://humblelistener.github.io/2017/04/04/Psychological-safety/</guid>
         
         
         <category>high-performance-team</category>
@@ -108,8 +108,8 @@ image credit &lt;a href=&quot;http://www.aleanjourney.com/2011/04/stages-of-high
         <description>&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=G1cGAnFi8dQ&quot; title=&quot;Configure ssh on windows&quot;&gt;&lt;img src=&quot;http://img.youtube.com/vi/G1cGAnFi8dQ/0.jpg&quot; alt=&quot;Configure ssh on windows for using git&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Sun, 12 Mar 2017 00:00:00 +1100</pubDate>
-        <link>http://localhost:4000/2017/03/12/Ssh-configuring-on-windows/</link>
-        <guid isPermaLink="true">http://localhost:4000/2017/03/12/Ssh-configuring-on-windows/</guid>
+        <link>https://humblelistener.github.io/2017/03/12/Ssh-configuring-on-windows/</link>
+        <guid isPermaLink="true">https://humblelistener.github.io/2017/03/12/Ssh-configuring-on-windows/</guid>
         
         
         <category>programming</category>
@@ -168,8 +168,8 @@ b. code boundaries are incorrect, so we have to get more than repo built to get 
 &lt;p&gt;What causes the most frustration in your CI process?&lt;/p&gt;
 </description>
         <pubDate>Thu, 23 Jun 2016 00:00:00 +1000</pubDate>
-        <link>http://localhost:4000/2016/06/23/Enabling-Continuous-integration-system/</link>
-        <guid isPermaLink="true">http://localhost:4000/2016/06/23/Enabling-Continuous-integration-system/</guid>
+        <link>https://humblelistener.github.io/2016/06/23/Enabling-Continuous-integration-system/</link>
+        <guid isPermaLink="true">https://humblelistener.github.io/2016/06/23/Enabling-Continuous-integration-system/</guid>
         
         
         <category>programming</category>
@@ -223,8 +223,8 @@ traffic&quot;&lt;/code&gt;  is checked.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;http://docs.telerik.com/fiddler/configure-fiddler/tasks/decrypthttps/&quot;&gt;Telerik fiddler documentation&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 20 May 2014 00:00:00 +1000</pubDate>
-        <link>http://localhost:4000/2014/05/20/trace-webserver-service-http-calls/</link>
-        <guid isPermaLink="true">http://localhost:4000/2014/05/20/trace-webserver-service-http-calls/</guid>
+        <link>https://humblelistener.github.io/2014/05/20/trace-webserver-service-http-calls/</link>
+        <guid isPermaLink="true">https://humblelistener.github.io/2014/05/20/trace-webserver-service-http-calls/</guid>
         
         
         <category>programming</category>
@@ -277,8 +277,8 @@ Typically entry point, which works well if the feature is user interface related
 &lt;/ul&gt;
 </description>
         <pubDate>Sat, 13 Jul 2013 00:00:00 +1000</pubDate>
-        <link>http://localhost:4000/2013/07/13/feature-switching/</link>
-        <guid isPermaLink="true">http://localhost:4000/2013/07/13/feature-switching/</guid>
+        <link>https://humblelistener.github.io/2013/07/13/feature-switching/</link>
+        <guid isPermaLink="true">https://humblelistener.github.io/2013/07/13/feature-switching/</guid>
         
         
         <category>programming</category>
@@ -320,8 +320,8 @@ Couple of references about Readify&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;http://www.greatplacetowork.com.au/best-companies/best-places-to-work-in-australia&quot;&gt;Great places to work in Australia&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 21 May 2013 00:00:00 +1000</pubDate>
-        <link>http://localhost:4000/2013/05/21/resigned-from-mindtree/</link>
-        <guid isPermaLink="true">http://localhost:4000/2013/05/21/resigned-from-mindtree/</guid>
+        <link>https://humblelistener.github.io/2013/05/21/resigned-from-mindtree/</link>
+        <guid isPermaLink="true">https://humblelistener.github.io/2013/05/21/resigned-from-mindtree/</guid>
         
         
         <category>career</category>
@@ -373,8 +373,8 @@ Loading ....&lt;/div&gt;
 While debugging this, I found &lt;a href=&quot;http://lostechies.com/derickbailey/2011/09/15/zombies-run-managing-page-transitions-in-backbone-apps&quot;&gt;this wonderful article&lt;/a&gt; that helped be understand the cleaning up required in javascript.&lt;/p&gt;
 </description>
         <pubDate>Fri, 04 Jan 2013 00:00:00 +1100</pubDate>
-        <link>http://localhost:4000/2013/01/04/unbind-knockout-cleannode/</link>
-        <guid isPermaLink="true">http://localhost:4000/2013/01/04/unbind-knockout-cleannode/</guid>
+        <link>https://humblelistener.github.io/2013/01/04/unbind-knockout-cleannode/</link>
+        <guid isPermaLink="true">https://humblelistener.github.io/2013/01/04/unbind-knockout-cleannode/</guid>
         
         
         <category>programming</category>
@@ -410,8 +410,8 @@ can have the call to TestMethod in its body. Like below,&lt;/p&gt;
 &lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt; Func&amp;lt;int, bool&amp;gt; func = (value) =&amp;gt; TestMethod(value);&lt;/code&gt;&lt;/p&gt;
 </description>
         <pubDate>Sun, 16 Dec 2012 00:00:00 +1100</pubDate>
-        <link>http://localhost:4000/2012/12/16/understanding-optional-parameters-c/</link>
-        <guid isPermaLink="true">http://localhost:4000/2012/12/16/understanding-optional-parameters-c/</guid>
+        <link>https://humblelistener.github.io/2012/12/16/understanding-optional-parameters-c/</link>
+        <guid isPermaLink="true">https://humblelistener.github.io/2012/12/16/understanding-optional-parameters-c/</guid>
         
         
         <category>programming</category>
@@ -502,8 +502,8 @@ my method &lt;code class=&quot;highlighter-rouge&quot;&gt;CollectPersonDetailFro
 &lt;/ol&gt;
 </description>
         <pubDate>Sun, 16 Dec 2012 00:00:00 +1100</pubDate>
-        <link>http://localhost:4000/2012/12/16/understanding-async-keyword-c/</link>
-        <guid isPermaLink="true">http://localhost:4000/2012/12/16/understanding-async-keyword-c/</guid>
+        <link>https://humblelistener.github.io/2012/12/16/understanding-async-keyword-c/</link>
+        <guid isPermaLink="true">https://humblelistener.github.io/2012/12/16/understanding-async-keyword-c/</guid>
         
         
         <category>programming</category>
@@ -730,8 +730,8 @@ can dive deep in internet based on the principles of your interest.&lt;/p&gt;
 &lt;p&gt;I also suggest reading &lt;strong&gt;&lt;em&gt;Robert C Martin’s – “Clean Code”&lt;/em&gt;&lt;/strong&gt; book. I strongly feel every software engineer should have read this book.&lt;/p&gt;
 </description>
         <pubDate>Mon, 12 Nov 2012 00:00:00 +1100</pubDate>
-        <link>http://localhost:4000/2012/11/12/SOLID-oo-principles/</link>
-        <guid isPermaLink="true">http://localhost:4000/2012/11/12/SOLID-oo-principles/</guid>
+        <link>https://humblelistener.github.io/2012/11/12/SOLID-oo-principles/</link>
+        <guid isPermaLink="true">https://humblelistener.github.io/2012/11/12/SOLID-oo-principles/</guid>
         
         
         <category>programming</category>
