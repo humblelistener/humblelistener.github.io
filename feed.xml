@@ -5,9 +5,103 @@
     <description></description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 05 Apr 2017 00:03:44 +1000</pubDate>
-    <lastBuildDate>Wed, 05 Apr 2017 00:03:44 +1000</lastBuildDate>
+    <pubDate>Sun, 09 Apr 2017 00:40:29 +1000</pubDate>
+    <lastBuildDate>Sun, 09 Apr 2017 00:40:29 +1000</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
+    
+      <item>
+        <title>Psychological safety - Building high performance team</title>
+        <description>&lt;h2 id=&quot;psychological-safety&quot;&gt;Psychological safety&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;Building high performance team series&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Before I realized, my interest in software engineering and building quality software lead me to having a passion in building high performance team.&lt;/p&gt;
+
+&lt;p&gt;In pursuing it, I stumbled on to how &lt;em&gt;Psychological safety&lt;/em&gt; is so important in building a high performance team.&lt;/p&gt;
+
+&lt;p&gt;In this post, I am going to put down my learnings, observations and materials that helped me understand this concept.&lt;/p&gt;
+
+&lt;h3 id=&quot;understanding-psychological-safety&quot;&gt;Understanding Psychological safety&lt;/h3&gt;
+
+&lt;p&gt;As much as it sounds like a hifi term, every individual would have definitely experienced it.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;It is that situation when working with a group of people where you find yourselves comfortable to share your thoughts, ideas and opinions&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;where you feel you are accepted and respected&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;where you don’t have to be worried about being ridiculed, humiliated or punished&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Chances are some of us would have experienced it several times in their work life. Sometimes where they just occurred accidentally (more fortunately) or in other occasions after spending a good amount of time within the same working group.&lt;/p&gt;
+
+&lt;p&gt;Either way it would have been the most productive working group. Most of us will have some nice memories of such working groups that we cherish thinking about every now and then.&lt;/p&gt;
+
+&lt;p&gt;The challenge however is to understand how to create a environment that fosters such a set up.&lt;/p&gt;
+
+&lt;h3 id=&quot;creating-a-psychologically-safe-environment&quot;&gt;Creating a psychologically safe environment&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://g.co/kgs/z2Lcwf&quot;&gt;Amy C. Edmondson&lt;/a&gt; a notable thought leader in her &lt;a href=&quot;https://www.youtube.com/watch?v=LhoLuui9gX8&quot;&gt;TED talk “Building a psychologically safe workplace”&lt;/a&gt; outlines a set up that fosters psychological safety.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Frame the work as learning problem and not as execution problem&lt;/li&gt;
+  &lt;li&gt;Acknowledge your own fallibility&lt;/li&gt;
+  &lt;li&gt;Model curiosity&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Much details about these paths are explained in her TED talk.&lt;/p&gt;
+
+&lt;h3 id=&quot;some-clues&quot;&gt;Some clues&lt;/h3&gt;
+
+&lt;p&gt;The following vocabulary helps developing listening skills around psychological safety.&lt;/p&gt;
+
+&lt;h4 id=&quot;sounds-of-traps-in-your-team&quot;&gt;Sounds of traps in your team&lt;/h4&gt;
+
+&lt;p&gt;&lt;em&gt;“I always felt like I had to prove myself”&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;“I always felt like I had to be careful not to make mistakes around them”&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;“People would try to show authority by speaking louder or talking over each other”&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;“only a few members speak most of the time”&lt;/em&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;good-signals&quot;&gt;Good signals&lt;/h4&gt;
+
+&lt;p&gt;&lt;em&gt;“we all felt like we could say anything to each other”&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;“No one worried that the rest of the team was judging them”&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;“I got your back!”&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;“Team sharing jokes”&lt;/em&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;myth&quot;&gt;Myth&lt;/h4&gt;
+
+&lt;p&gt;&lt;em&gt;“building the best teams meant combining the best people”&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;impact-on-psychological-safety-on-team-performance&quot;&gt;Impact on Psychological safety on team performance&lt;/h3&gt;
+
+&lt;p&gt;Below is the picture representing the &lt;a href=&quot;https://en.wikipedia.org/wiki/Tuckman%27s_stages_of_group_development&quot;&gt;four stages of group development by Bruce Tuckman&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://3.bp.blogspot.com/-H9_AmIgf464/TaJeGbKuyQI/AAAAAAAAARs/H_lLhVAXyeQ/s1600/Tuckmans+model.png&quot; alt=&quot;forming storming norming performing&quot; /&gt;
+image credit &lt;a href=&quot;http://www.aleanjourney.com/2011/04/stages-of-high-performance-teams.htmlhttp://www.aleanjourney.com/2011/04/stages-of-high-performance-teams.html&quot;&gt;www.aleanjourney.com&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;A psychologically safe environment helps expedite forming and storming phase and get to norming and performing faster.&lt;/p&gt;
+
+&lt;h4 id=&quot;closing-comments&quot;&gt;Closing comments&lt;/h4&gt;
+
+&lt;p&gt;This post has taken inspirations from several publications and articles about Psychological safety. One of the noteworthy post what the &lt;a href=&quot;https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html?_r=0&quot;&gt;learnings of Psychological safety from google&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;** What are your thoughts? **&lt;/p&gt;
+
+&lt;p&gt;** What do you think helped you feel safe when last time you found yourselves in a safe group set up? **&lt;/p&gt;
+</description>
+        <pubDate>Tue, 04 Apr 2017 00:00:00 +1000</pubDate>
+        <link>http://localhost:4000/2017/04/04/Psychological-safety/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/04/04/Psychological-safety/</guid>
+        
+        
+        <category>high-performance-team</category>
+        
+      </item>
     
       <item>
         <title>Configure ssh on windows for using gitlab or github</title>
