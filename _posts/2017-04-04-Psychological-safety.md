@@ -101,6 +101,6 @@ A psychologically safe environment helps expedite forming and storming phase and
 
 This post has taken inspirations from several publications and articles about Psychological safety. One of the noteworthy post, the [learnings of Psychological safety from google](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html?_r=0).
 
-** What are your thoughts? **
+*What are your thoughts?*
 
-** What do you think helped you feel safe when last time you found yourselves in a safe group set up? **
+*What do you think helped you feel safe when last time you found yourselves in a safe group set up?*
