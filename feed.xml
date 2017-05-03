@@ -5,8 +5,8 @@
     <description></description>
     <link>https://humblelistener.github.io/</link>
     <atom:link href="https://humblelistener.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 04 May 2017 00:21:11 +1000</pubDate>
-    <lastBuildDate>Thu, 04 May 2017 00:21:11 +1000</lastBuildDate>
+    <pubDate>Thu, 04 May 2017 00:40:00 +1000</pubDate>
+    <lastBuildDate>Thu, 04 May 2017 00:40:00 +1000</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
     
       <item>
@@ -29,7 +29,7 @@
 &lt;h3 id=&quot;manualexploratory-testing&quot;&gt;Manual/Exploratory testing&lt;/h3&gt;
 &lt;p&gt;God forbid, this is the option that we are relying currently on the product along with some basic functional UI test coverage. As with any manual work, it has a big gap for human error and hell a lot of time it will take if every code path being affected is to be tested, especially when trying to change the underlying concepts of the system.&lt;/p&gt;
 
-&lt;p&gt;In such a state, it is not surprising that the urge to hide under the desk after the deploy button is clicked every time.&lt;/p&gt;
+&lt;p&gt;In such a state, it is not surprising that there is a urge to hide under the desk after the deploy button is clicked every time.&lt;/p&gt;
 
 &lt;h2 id=&quot;where-is-the-hope&quot;&gt;Where is the hope?&lt;/h2&gt;
 &lt;p&gt;The last hope, I am thinking of pursuing is to set up a beta environment and set up a traffic splitting between live and beta environment. A traffic split that can be finely controlled. So any risky change can be deployed to a variable percentage of users, monitor and decide to increase of decrease the percentage over time with confidence.&lt;/p&gt;
