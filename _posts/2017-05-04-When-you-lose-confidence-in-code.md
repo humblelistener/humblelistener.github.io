@@ -30,7 +30,7 @@ Wish I can find a way to do this in the given technology. The complex branching,
 ### Manual/Exploratory testing
 God forbid, this is the option that we are relying currently on the product along with some basic functional UI test coverage. As with any manual work, it has a big gap for human error and hell a lot of time it will take if every code path being affected is to be tested, especially when trying to change the underlying concepts of the system.
 
-In such a state, it is not surprising that the urge to hide under the desk after the deploy button is clicked every time.
+In such a state, it is not surprising that there is a urge to hide under the desk after the deploy button is clicked every time.
 
 ## Where is the hope?
 The last hope, I am thinking of pursuing is to set up a beta environment and set up a traffic splitting between live and beta environment. A traffic split that can be finely controlled. So any risky change can be deployed to a variable percentage of users, monitor and decide to increase of decrease the percentage over time with confidence.
