@@ -5,8 +5,8 @@
     <description></description>
     <link>https://humblelistener.github.io/</link>
     <atom:link href="https://humblelistener.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 04 May 2017 00:12:10 +1000</pubDate>
-    <lastBuildDate>Thu, 04 May 2017 00:12:10 +1000</lastBuildDate>
+    <pubDate>Thu, 04 May 2017 00:18:17 +1000</pubDate>
+    <lastBuildDate>Thu, 04 May 2017 00:18:17 +1000</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
     
       <item>
@@ -23,18 +23,18 @@
 &lt;h3 id=&quot;functional-ui-tests&quot;&gt;Functional UI tests&lt;/h3&gt;
 &lt;p&gt;Even if I overcome the response time, feedback cycle and brittleness of the test suite, It is hard to convince myself that a good coverage can be achieved without large efforts.&lt;/p&gt;
 
-&lt;h3 id=&quot;consumer-driven-contracts&quot;&gt;Consumer driven contracts&lt;/h3&gt;
-&lt;p&gt;Wish I can find a way to do this in the given technology. The complex branching, conditional flows and data driven decisions in the system makes me think even if I magic a way to do consumer driven contracts on this system, I will age by the time I set up contracts with decent coverage.&lt;/p&gt;
+&lt;h3 id=&quot;consumer-driven-contracts&quot;&gt;Consumer-driven contracts&lt;/h3&gt;
+&lt;p&gt;Wish I can find a way to do this in the given technology. The complex branching, conditional flows and data-driven decisions in the system make me think even if I magic a way to do consumer driven contracts on this system, I will age by the time I set up contracts with decent coverage.&lt;/p&gt;
 
 &lt;h3 id=&quot;manualexploratory-testing&quot;&gt;Manual/Exploratory testing&lt;/h3&gt;
-&lt;p&gt;God forbid, this is the option that we are relying currently on the product along with some basic functional UI test coverage. As with any manual work, it has big gap for human error and hell a lot of time it will take if every code path being affected is to be tested, especially when trying to change the underlying concepts of the system.&lt;/p&gt;
+&lt;p&gt;God forbid, this is the option that we are relying currently on the product along with some basic functional UI test coverage. As with any manual work, it has a big gap for human error and hell a lot of time it will take if every code path being affected is to be tested, especially when trying to change the underlying concepts of the system.&lt;/p&gt;
 
 &lt;p&gt;In such a state, it is not surprising that the urge to hide under the desk after the deploy button is clicked every time.&lt;/p&gt;
 
 &lt;h2 id=&quot;where-is-the-hope&quot;&gt;Where is the hope?&lt;/h2&gt;
 &lt;p&gt;The last hope, I am thinking of pursuing is to set up a beta environment and set up a traffic splitting between live and beta environment. A traffic split that can be finely controlled. So any risky change can be deployed to a variable percentage of users, monitor and decide to increase of decrease the percentage over time with confidence.&lt;/p&gt;
 
-&lt;p&gt;This is not a new technique, this is similar to A/B testing set up. NGinx like proxies have been supporting such a set up for a while.&lt;/p&gt;
+&lt;p&gt;This is not a new technique, this is similar to A/B testing. Nginx like proxies and load balancers pioneered it.&lt;/p&gt;
 
 &lt;p&gt;In this particular case, I am thinking of pursuing AWS’s Application load balancer to achieve it.&lt;/p&gt;
 
@@ -138,9 +138,9 @@ image credit &lt;a href=&quot;http://www.aleanjourney.com/2011/04/stages-of-high
 
 &lt;p&gt;This post has taken inspirations from several publications and articles about Psychological safety. One of the noteworthy post, the &lt;a href=&quot;https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html?_r=0&quot;&gt;learnings of Psychological safety from google&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;** What are your thoughts? **&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;What are your thoughts?&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;** What do you think helped you feel safe when last time you found yourselves in a safe group set up? **&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;What do you think helped you feel safe when last time you found yourselves in a safe group set up?&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 04 Apr 2017 00:00:00 +1000</pubDate>
         <link>https://humblelistener.github.io/2017/04/04/Psychological-safety/</link>
