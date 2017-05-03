@@ -5,9 +5,57 @@
     <description></description>
     <link>https://humblelistener.github.io/</link>
     <atom:link href="https://humblelistener.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 09 Apr 2017 01:10:46 +1000</pubDate>
-    <lastBuildDate>Sun, 09 Apr 2017 01:10:46 +1000</lastBuildDate>
+    <pubDate>Thu, 04 May 2017 00:12:10 +1000</pubDate>
+    <lastBuildDate>Thu, 04 May 2017 00:12:10 +1000</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
+    
+      <item>
+        <title>What do you do when you lose confidence in code?</title>
+        <description>&lt;h1 id=&quot;what-do-you-do-when-you-lose-confidence-in-code&quot;&gt;What do you do when you lose confidence in code?&lt;/h1&gt;
+
+&lt;p&gt;This is happening to me.&lt;/p&gt;
+
+&lt;p&gt;One of the inherited product I have is so complex that investing time and money on any of the following feels useless.&lt;/p&gt;
+
+&lt;h3 id=&quot;unit-tests&quot;&gt;Unit tests&lt;/h3&gt;
+&lt;p&gt;The technology literally doesn’t bend to write unit tests. I know the rebel in you telling that there should be a way to write unit tests on it. But I say, it is not worth it.&lt;/p&gt;
+
+&lt;h3 id=&quot;functional-ui-tests&quot;&gt;Functional UI tests&lt;/h3&gt;
+&lt;p&gt;Even if I overcome the response time, feedback cycle and brittleness of the test suite, It is hard to convince myself that a good coverage can be achieved without large efforts.&lt;/p&gt;
+
+&lt;h3 id=&quot;consumer-driven-contracts&quot;&gt;Consumer driven contracts&lt;/h3&gt;
+&lt;p&gt;Wish I can find a way to do this in the given technology. The complex branching, conditional flows and data driven decisions in the system makes me think even if I magic a way to do consumer driven contracts on this system, I will age by the time I set up contracts with decent coverage.&lt;/p&gt;
+
+&lt;h3 id=&quot;manualexploratory-testing&quot;&gt;Manual/Exploratory testing&lt;/h3&gt;
+&lt;p&gt;God forbid, this is the option that we are relying currently on the product along with some basic functional UI test coverage. As with any manual work, it has big gap for human error and hell a lot of time it will take if every code path being affected is to be tested, especially when trying to change the underlying concepts of the system.&lt;/p&gt;
+
+&lt;p&gt;In such a state, it is not surprising that the urge to hide under the desk after the deploy button is clicked every time.&lt;/p&gt;
+
+&lt;h2 id=&quot;where-is-the-hope&quot;&gt;Where is the hope?&lt;/h2&gt;
+&lt;p&gt;The last hope, I am thinking of pursuing is to set up a beta environment and set up a traffic splitting between live and beta environment. A traffic split that can be finely controlled. So any risky change can be deployed to a variable percentage of users, monitor and decide to increase of decrease the percentage over time with confidence.&lt;/p&gt;
+
+&lt;p&gt;This is not a new technique, this is similar to A/B testing set up. NGinx like proxies have been supporting such a set up for a while.&lt;/p&gt;
+
+&lt;p&gt;In this particular case, I am thinking of pursuing AWS’s Application load balancer to achieve it.&lt;/p&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;https://aws.amazon.com/blogs/devops/introducing-application-load-balancer-unlocking-and-optimizing-architectures/&quot;&gt;A/B testing section in the AWS Load balancing documentation here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I shall share more details on how it went. In the meanwhile, I am to learn from your experience, if you leave comments.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 04 May 2017 00:00:00 +1000</pubDate>
+        <link>https://humblelistener.github.io/2017/05/04/When-you-lose-confidence-in-code/</link>
+        <guid isPermaLink="true">https://humblelistener.github.io/2017/05/04/When-you-lose-confidence-in-code/</guid>
+        
+        
+        <category>software testing</category>
+        
+        <category>software engineering</category>
+        
+        <category>A/B testing</category>
+        
+        <category>Traffic splitting</category>
+        
+      </item>
     
       <item>
         <title>Psychological safety - Building high performance team</title>
@@ -509,232 +557,6 @@ my method &lt;code class=&quot;highlighter-rouge&quot;&gt;CollectPersonDetailFro
         <category>programming</category>
         
         <category>c#</category>
-        
-      </item>
-    
-      <item>
-        <title>SOLID principles - primer</title>
-        <description>&lt;p&gt;SOLID Principles - primer&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;S –Single responsibility principle&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Wikipedia defines it as &lt;strong&gt;every class should have a single
-responsibility, and that responsibility should be entirely encapsulated
-by the class&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;The idea behind this principle is that, any change should only be
-limited to a class that is responsible for that feature. None of the
-dependent classes or consumers should have to be modified to adjust to
-this change.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;What is the advantage?&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;By following this principle, we can limit the number of places we have
-to change the code for a single change in a feature. This directs
-reduces the cyclomatic complexity.&lt;/p&gt;
-
-&lt;p&gt;Other than the metric advantage mentioned above, following this
-principle leads to&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Simplicity in the design / code&lt;/li&gt;
-  &lt;li&gt;Makes design / code easily understandable&lt;/li&gt;
-  &lt;li&gt;Increases maintainability and increases engineers good karma&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;O –Open/closed principle&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Wikipedia definition says &lt;em&gt;software entities (classes, modules,
-functions, etc.) should be open for extension, but closed for
-modification&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;If you know the code that you are writing is susceptible to change when
-you are writing it – it is a good candidate for applying this principle.
-However if the developer is new for the domain and is not able to
-predict that the possible change coming (which happens most of the
-time), it is fine to write the simplest piece of code that works.&lt;/p&gt;
-
-&lt;p&gt;Although, the moment he realizes that there is change coming, he should
-be ready to refactor and apply this principle. The next time change
-comes, the code modification should be an extension rather than
-modification.&lt;/p&gt;
-
-&lt;p&gt;This technique can be summarized by the below funny statements&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;“Fool me once, shame on you; fool me twice, shame on me”&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Ideally any software design should be closed for modifications and open
-for extensions – which is very tough. The best person to guess this is
-the developer / designer – who will be the only person knowing what
-areas of his code are susceptible to change.&lt;/p&gt;
-
-&lt;p&gt;The design patterns that come to rescue when you encounter candidates
-for this principle are&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Template method pattern – Rely on abstraction&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Strategy pattern – rely on composition.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Or simply sometimes adding parameters to the function can be very
-effective.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;L – Liskov Substitution Principle&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Wikipedia definition - &lt;em&gt;“if S is a subtype of T, then objects of type T
-may be replaced with objects of type ”&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;The converse of this theory in simple terms is - “&lt;em&gt;If it looks like a
-duck and sounds like a duck, but needs batteries then it may well not be
-a substitutable duck&lt;/em&gt;”.&lt;/p&gt;
-
-&lt;p&gt;There is paradigm shift between how you look at inheritance in this
-principle - “IS-A” relation is replaced by “IS-SUBSTITUTABLE-FOR”
-relationship.&lt;/p&gt;
-
-&lt;p&gt;The primary objective of this design is - the calling code should not
-know the difference between the base type and a sub type. Irrespective
-of the actual type being passed, the calling code should be able to do
-all the operation.&lt;/p&gt;
-
-&lt;p&gt;Another variance where this principle can be applied is when the subtype
-does not implement only one (or few) operations of the base type. This
-could well mean that they are not exactly replaceable substitutes.&lt;/p&gt;
-
-&lt;p&gt;This happens when either when the interfaces or base classes are not
-properly segregated (candidate for the next principle: Interface
-segregation) or when “IS-SUBSTITUTABLE-FOR” principle is simply broken.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;How do you identify them in your code?&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Any part of code where you have to convert a base type to a specific
-type to do an operation – then the code violates this principle and
-requires refactoring.&lt;/p&gt;
-
-&lt;p&gt;Any operation that can be performed on a subtype but cannot be done on
-another subtype with the same parent, then this principle is
-compromised.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;I – Interface Segregation Principle&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;For this principle, class and interface are interchangeable terms. Any
-class is considered an implementation of interface although interface
-may not have been abstracted.&lt;/p&gt;
-
-&lt;p&gt;I wasn’t able to find a slick definition of this principle in wiki – so
-let use this&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;“Clients should not be forced to depend on methods they do not use.”&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Corollary – prefer small, cohesive interfaces to “fat” interfaces.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Whenever possible, let the client define the interface.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;When client unit needs only a few operations, support only those
-operation from your interface – any other methods in the interface are
-just nonsense for the client and could increase complexity of the code.&lt;/p&gt;
-
-&lt;p&gt;Interface segregation violations result in classes that depend on things
-they do not need, increasing coupling and reducing flexibility and
-maintainability.&lt;/p&gt;
-
-&lt;p&gt;Interfaces with unimplemented interface methods are also candid for this
-principle (as they are for Liskov Substitution principle)&lt;/p&gt;
-
-&lt;p&gt;Doctor’s prescription notes for interface segregation&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Client references an interface but only uses a portion of it – refactor
-it using façade without touching the interface until the more pain is
-localized in this region (notice façade pattern to the rescue).&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;If you have a fat interface and facing problem with it – consider
-breaking what you need into smaller interface and let the fat interface
-inherit this new one.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;If you have problem using a fat interface that you do not own – consider
-creating a smaller interface that acts as an adapter around the fat
-interface and use it – (notice adapter pattern to the rescue).&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;D – Dependency Inversion / Inversion of control&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Off late this principle has become very common with the advent of a
-wonderful reference implementation available with us in the form of
-ASP.NET MVC Framework – This statement is targeted only at .NET
-developers.&lt;/p&gt;
-
-&lt;p&gt;Wikipedia definition –
-a. &lt;em&gt;High level
-modules should not depend on low level modules. Both should depend on
-abstractions.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;b. &lt;em&gt;Abstractions should not depend upon details. Details should
-depend upon abstractions.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;One very good example that I read about that suits well for dependency
-inversion are electrical plugs/ sockets. How? All electrical appliance
-depend on electricity, just because it is dependent they are not
-directly connected to electrical wires running behind the wall. Instead
-we use plugs / sockets. By using this we invert the dependency by giving
-the flexibility of connecting to a wire behind the wall or connecting to
-UPS box based on the need. Because appliances are not bothered where the
-electricity comes from it makes sense. Here plugs / sockets are
-abstractions. Appliance and Electricity are details – which depend on
-the abstractions.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;How do I identify the candid’s for this principle?&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Anything that you are not able to unit test effectively without
-depending on the environment are all candid’s for this principle.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;How do I make them follow this principle?&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;In simple one line answer is “use dependency injection”.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;How do I identify them when designing or implementing?&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Honestly identify the dependencies that are in your implementation. Once
-you are able to identify it, design your code around to allow these
-dependencies to be injected from outside.&lt;/p&gt;
-
-&lt;p&gt;I know this statement is cruel, considering Framework classes and static
-methods from Framework. Considers Microsoft Fakes if you are bothered
-about it. Especially if you are working on a maintenance project and
-trying to follow this principle you will appreciate Fakes library’s –
-shim concept.&lt;/p&gt;
-
-&lt;p&gt;For dependency injection again, there are multiple frameworks available
-like (Unity, Ninject etc.. ) which all really good.&lt;/p&gt;
-
-&lt;p&gt;More references on dependency injection and this principle&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://martinfowler.com/articles/injection.html&quot;&gt;Dependency injection by Martin Fowler&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://msdn.microsoft.com/en-us/library/hh549175.aspx&quot;&gt;More reference&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;As I wrote, I realized that I can only the surface of these principles
-here. You can consider this place to get an idea of these principles and
-can dive deep in internet based on the principles of your interest.&lt;/p&gt;
-
-&lt;p&gt;I also suggest reading &lt;strong&gt;&lt;em&gt;Robert C Martin’s – “Clean Code”&lt;/em&gt;&lt;/strong&gt; book. I strongly feel every software engineer should have read this book.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 12 Nov 2012 00:00:00 +1100</pubDate>
-        <link>https://humblelistener.github.io/2012/11/12/SOLID-oo-principles/</link>
-        <guid isPermaLink="true">https://humblelistener.github.io/2012/11/12/SOLID-oo-principles/</guid>
-        
-        
-        <category>programming</category>
         
       </item>
     
