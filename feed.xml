@@ -5,8 +5,8 @@
     <description></description>
     <link>https://humblelistener.github.io/</link>
     <atom:link href="https://humblelistener.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 11 Jun 2017 21:13:45 +1000</pubDate>
-    <lastBuildDate>Sun, 11 Jun 2017 21:13:45 +1000</lastBuildDate>
+    <pubDate>Sun, 11 Jun 2017 21:16:43 +1000</pubDate>
+    <lastBuildDate>Sun, 11 Jun 2017 21:16:43 +1000</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
     
       <item>
@@ -34,11 +34,11 @@
 &lt;h3 id=&quot;the-winning-solution-design&quot;&gt;The winning solution design&lt;/h3&gt;
 &lt;p&gt;So after being surprised by load balancers in AWS and with the only option of doing it with a combination of Route 53 and ALB’s, this is what we came up with.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;../assets/BetaABtesting diagram.png&quot; alt=&quot;Solution design for Beta AB set up&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://github.com/humblelistener/humblelistener.github.io/raw/sources/assets/BetaABtesting%20diagram.png&quot; alt=&quot;Solution design for Beta AB set up&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;The gif provides a better picture on spike and how it will work.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;../assets/betaenvlsapp.gif&quot; alt=&quot;how it works!&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://github.com/humblelistener/humblelistener.github.io/raw/sources/assets/betaenvlsapp.gif&quot; alt=&quot;how it works!&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;what-are-the-stated-advantages&quot;&gt;What are the stated advantages&lt;/h3&gt;
 
