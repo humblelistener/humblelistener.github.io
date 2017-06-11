@@ -10,6 +10,7 @@ categories:
 description:
 image: https://source.unsplash.com/collection/599894/800x600
 image-sm: https://source.unsplash.com/collection/599894/1600x900
+comments: true
 ---
 
 ## BETA Environment configuration for large scale application hosted on AWS
