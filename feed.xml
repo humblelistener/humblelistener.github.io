@@ -5,9 +5,71 @@
     <description></description>
     <link>https://humblelistener.github.io/</link>
     <atom:link href="https://humblelistener.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 04 May 2017 00:40:00 +1000</pubDate>
-    <lastBuildDate>Thu, 04 May 2017 00:40:00 +1000</lastBuildDate>
+    <pubDate>Sun, 11 Jun 2017 21:13:45 +1000</pubDate>
+    <lastBuildDate>Sun, 11 Jun 2017 21:13:45 +1000</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
+    
+      <item>
+        <title>Beta Environment configuration on AWS</title>
+        <description>&lt;h2 id=&quot;beta-environment-configuration-for-large-scale-application-hosted-on-aws&quot;&gt;BETA Environment configuration for large scale application hosted on AWS&lt;/h2&gt;
+
+&lt;p&gt;This is in continuation to the &lt;a href=&quot;http://humblelistener.github.io/2017/05/04/When-you-lose-confidence-in-code/&quot;&gt;previous post&lt;/a&gt;, I wrote about a situation where it was getting hard to deploy a particular application. I also mentioned how having a blue green like beta environment would help validate the behaviours of the system in near realtime without having a big impact on neither business or your end users.&lt;/p&gt;
+
+&lt;h3 id=&quot;aws-weighted-load-balancing&quot;&gt;AWS Weighted load balancing&lt;/h3&gt;
+&lt;p&gt;The solution proposed leveraged on the capability of load balancers to weigh the load to two different server cluster so that the behaviour can be validated in the production without great impact.&lt;/p&gt;
+
+&lt;p&gt;With that in mind in the time in between I was spiking different options in AWS ecosystem to understand how such an architecture can be built.&lt;/p&gt;
+
+&lt;h4 id=&quot;load-balancers-that-cannot-do-custom-weighing&quot;&gt;Load balancers that cannot do custom weighing&lt;/h4&gt;
+&lt;p&gt;This was a big surprise, I was hoping a lot on AWS &lt;a href=&quot;https://aws.amazon.com/elasticloadbalancing/applicationloadbalancer/&quot;&gt;Application Load Balancer&lt;/a&gt; or &lt;a href=&quot;https://aws.amazon.com/elasticloadbalancing/classicloadbalancer/&quot;&gt;Elastic Load Balancer&lt;/a&gt; to be able to support this easily.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Isn’t it a fair expectation to have weighted routing (weighted round robin anyone?) in a load balancer AWS?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;To my surprise, neither ALB or ELB in its current form is capable of doing it. Seriously yes, I contacted support and they confirmed it.&lt;/p&gt;
+
+&lt;p&gt;However, their managed DNS service - &lt;a href=&quot;https://aws.amazon.com/route53/&quot;&gt;Route 53&lt;/a&gt; supports it. While it is a relief, given we are invested in AWS at the moment, it does come with the limitation that DNS caching can be tricky, the residual connections to a server that is rolled back is possible.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-winning-solution-design&quot;&gt;The winning solution design&lt;/h3&gt;
+&lt;p&gt;So after being surprised by load balancers in AWS and with the only option of doing it with a combination of Route 53 and ALB’s, this is what we came up with.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/BetaABtesting diagram.png&quot; alt=&quot;Solution design for Beta AB set up&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The gif provides a better picture on spike and how it will work.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/betaenvlsapp.gif&quot; alt=&quot;how it works!&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;what-are-the-stated-advantages&quot;&gt;What are the stated advantages&lt;/h3&gt;
+
+&lt;p&gt;I did briefly touch about it in the &lt;a href=&quot;http://humblelistener.github.io/2017/05/04/When-you-lose-confidence-in-code/&quot;&gt;previous post&lt;/a&gt;. In the hindsight, it is easy to explain why it is required for us now for our line of business application and how it might apply to you,&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Reduce impact of business when improving the system.&lt;/li&gt;
+  &lt;li&gt;Provide a safe environment for technical improvements on the platform.&lt;/li&gt;
+  &lt;li&gt;A ground work for to enable iterating on the software effectively.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;So now that spike is done, the next step is the big test. We have to create a build and deployment pipeline to deploy in such an environment. Wish me good luck with it. I will share my experience as I finish each step.&lt;/p&gt;
+
+&lt;p&gt;In the meanwhile, If you find this useful or have any better ways of achieving this please do leave a note and I will be very happy.&lt;/p&gt;
+
+&lt;p&gt;Till then, Cheers!&lt;/p&gt;
+</description>
+        <pubDate>Sun, 11 Jun 2017 00:00:00 +1000</pubDate>
+        <link>https://humblelistener.github.io/2017/06/11/beta-environment-on-aws-for-large-monolith-applications/</link>
+        <guid isPermaLink="true">https://humblelistener.github.io/2017/06/11/beta-environment-on-aws-for-large-monolith-applications/</guid>
+        
+        
+        <category>Solution design</category>
+        
+        <category>Beta testing</category>
+        
+        <category>AB testing</category>
+        
+        <category>AWS Beta testing</category>
+        
+      </item>
     
       <item>
         <title>What do you do when you lose confidence in code?</title>
@@ -460,98 +522,6 @@ can have the call to TestMethod in its body. Like below,&lt;/p&gt;
         <pubDate>Sun, 16 Dec 2012 00:00:00 +1100</pubDate>
         <link>https://humblelistener.github.io/2012/12/16/understanding-optional-parameters-c/</link>
         <guid isPermaLink="true">https://humblelistener.github.io/2012/12/16/understanding-optional-parameters-c/</guid>
-        
-        
-        <category>programming</category>
-        
-        <category>c#</category>
-        
-      </item>
-    
-      <item>
-        <title>Understanding async keyword in c#</title>
-        <description>&lt;p&gt;Understanding how async keyword works in c#&lt;/p&gt;
-
-&lt;p&gt;So, c# 5 introduced a new keyword to simplify asynchronous programming
-by the introduction of await keyword. Functionally this keyword will
-wait for the completion of asynchronous operation that was started.&lt;/p&gt;
-
-&lt;p&gt;Technically though it has a complex contract, take a look at the same
-code below&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;internal class Class3
-{
-    public async Task&amp;lt;PersonDetails[]&amp;gt; GetPersonDetails(string personName)
-    {
-      var personGoogleDetails = CollectPersonDetailFromGoogle(personName);
-      DoSomeComplexWork();
-      PersonDetails[] personDetails = await personGoogleDetails;
-      CallSomeSimpleWork();
-
-      return personDetails;
-    }
-
-    private CustomAwaitable CollectPersonDetailFromGoogle(string personName)
-    {
-      return null;
-    }
-
-    private void CallSomeSimpleWork()
-    {
-      throw new NotImplementedException();
-    }
-
-    private void DoSomeComplexWork()
-    {
-      throw new NotImplementedException();
-    }    
-}
-
-internal class CustomAwaitable
-{
-  public CustomAwaiter&amp;lt;PersonDetails[]&amp;gt; GetAwaiter()
-  {
-    return new CustomAwaiter&amp;lt;PersonDetails[]&amp;gt;();
-  }
-}
-
-internal class CustomAwaiter&amp;lt;T&amp;gt; : System.Runtime.CompilerServices.INotifyCompletion
-{
-  public bool IsCompleted { get; set; }
-  public void OnCompleted(Action continuation)
-  {
-    throw new NotImplementedException();
-  }
-
-  public T GetResult()
-  {
-    return default(T);
-  }
-}
-
-internal class PersonDetails
-{
-}
-
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
-
-&lt;p&gt;There are few things, that I want to bring it up,&lt;/p&gt;
-&lt;ol&gt;
-  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;GetPersonDetails()&lt;/code&gt; method’s signature says it will return &lt;code class=&quot;highlighter-rouge&quot;&gt;Task&amp;lt;PersonDetails&amp;gt;&lt;/code&gt;
-however the return statement just returns PersonDetails[] and the
-compiler is happy about it.&lt;/li&gt;
-  &lt;li&gt;Look at the dis assembler screen shot
-and see &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;GetPersonDetails&amp;gt;d_0&lt;/code&gt; which is an anonymous
-class created. Any idea why?&amp;lt;/span&amp;gt;&lt;/li&gt;
-  &lt;li&gt;Look at use of “await” keyword, though
-my method &lt;code class=&quot;highlighter-rouge&quot;&gt;CollectPersonDetailFromGoogle&lt;/code&gt; is not a &lt;code class=&quot;highlighter-rouge&quot;&gt;Task&amp;lt;T&amp;gt;&lt;/code&gt; or
-&lt;code class=&quot;highlighter-rouge&quot;&gt;Task&lt;/code&gt;, the compiler is still happy with that.&lt;/li&gt;
-&lt;/ol&gt;
-</description>
-        <pubDate>Sun, 16 Dec 2012 00:00:00 +1100</pubDate>
-        <link>https://humblelistener.github.io/2012/12/16/understanding-async-keyword-c/</link>
-        <guid isPermaLink="true">https://humblelistener.github.io/2012/12/16/understanding-async-keyword-c/</guid>
         
         
         <category>programming</category>
