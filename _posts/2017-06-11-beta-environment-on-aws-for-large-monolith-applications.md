@@ -33,11 +33,11 @@ However, their managed DNS service - [Route 53](https://aws.amazon.com/route53/)
 ### The winning solution design
 So after being surprised by load balancers in AWS and with the only option of doing it with a combination of Route 53 and ALB's, this is what we came up with.
 
-![Solution design for Beta AB set up](../assets/BetaABtesting diagram.png)
+![Solution design for Beta AB set up](https://github.com/humblelistener/humblelistener.github.io/raw/sources/assets/BetaABtesting%20diagram.png)
 
 The gif provides a better picture on spike and how it will work.
 
-![how it works!](../assets/betaenvlsapp.gif)
+![how it works!](https://github.com/humblelistener/humblelistener.github.io/raw/sources/assets/betaenvlsapp.gif)
 
 ### What are the stated advantages
 
