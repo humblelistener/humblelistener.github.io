@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Beta Environment configuration on AWS"
-date: 2012-11-12
+date: 2017-06-11
 categories:
   - Solution design
   - Beta testing
