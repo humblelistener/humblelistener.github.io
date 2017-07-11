@@ -21,16 +21,16 @@ To give some simple examples,
 
 ### LinkedIn
 The follow is a quote from [LinkedIn's culture and values page](https://careers.linkedin.com/culture-and-values).
-> Creating a digital map of the global economy to connect talent with opportunity at massive scale.
+
+_Creating a digital map of the global economy to connect talent with opportunity at massive scale._
 
 ### Twitter
 They call it their [mission](https://about.twitter.com/company).
-> Our mission: To give everyone the power to create and share ideas and information instantly, without barriers.
+_Our mission: To give everyone the power to create and share ideas and information instantly, without barriers._
 
 ### Google
 Mission is what they call it (interestingly [it is accessible only from google search](https://www.google.com.au/search?q=google+about&rlz=1C5CHFA_enAU732AU732&oq=google+about&aqs=chrome.0.0l6.3533j0j4&sourceid=chrome&ie=UTF-8)),
-
-> Google's mission is to organize the world's information and make it universally accessible and useful.
+_Google's mission is to organize the world's information and make it universally accessible and useful._
 
 ## How do organisations approach it
 Every organisation has different ways to define their purpose. Some call them vision, some mission, some simply put together a statement.
@@ -44,25 +44,26 @@ Recently they seem to have alignt to Mission and Values.
 
 ### Mindtree's mission
 Sounds a bit too vague to me.
-> We engineer meaningful technology solutions to help businesses and societies flourish.
+_We engineer meaningful technology solutions to help businesses and societies flourish._
 
 ### Mindtree's values
->COLLABORATIVE SPIRIT
-Mindtree believes in developing true partnerships. We foster a collegial environment where individual perspectives are respected and honest dialogue is expected.
 
->UNRELENTING DEDICATION
-Mindtree is driven to meet client needs with determination and grit. We embrace tough challenges and do not rest until the problem is solved, the right way.
+_COLLABORATIVE SPIRIT
+Mindtree believes in developing true partnerships. We foster a collegial environment where individual perspectives are respected and honest dialogue is expected._
 
->EXPERT THINKING
-Mindtree brings robust skills and forward looking perspectives to solve customer challenges. We use proven knowledge to make recommendations and provide expert guidance to our customers.
+_UNRELENTING DEDICATION
+Mindtree is driven to meet client needs with determination and grit. We embrace tough challenges and do not rest until the problem is solved, the right way._
+
+_EXPERT THINKING
+Mindtree brings robust skills and forward looking perspectives to solve customer challenges. We use proven knowledge to make recommendations and provide expert guidance to our customers._
 
 ### One last old school mission, vision and values statement from the very old BBC
 
 Mission
->To enrich people's lives with programmes and services that inform, educate and entertain.
+_To enrich people's lives with programmes and services that inform, educate and entertain._
 
 Vision
-> To be the most creative organisation in the world.
+_To be the most creative organisation in the world._
 
 ## Trend towards sustainability and social responsibility
 
@@ -70,6 +71,12 @@ Corporate social responsibility and sutainable business practice are other diffe
 
 To me, the mean more - they mean as some wiseman once pointed out,
 
-> People don't just buy products anymore, they buy meaningful experiences
+_People don't just buy products anymore, they buy into values they represent._
 
-Something I can fassociate my value with.
+## What do workers buy in?
+
+If values are the one that are bought in for even just day do day products, what about the work.
+
+**To me, I am spending best part of my life working, I better have a clear and convincing buy in to the business - its mission and values it represents.**
+
+Else it is as good as calling it _a life wasted._
