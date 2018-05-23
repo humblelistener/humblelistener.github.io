@@ -1,0 +1,681 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>some writings from a humblelistener</title>
+    <description></description>
+    <link>https://humblelistener.github.io/</link>
+    <atom:link href="https://humblelistener.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 24 May 2018 07:22:59 +0800</pubDate>
+    <lastBuildDate>Thu, 24 May 2018 07:22:59 +0800</lastBuildDate>
+    <generator>Jekyll v3.8.2</generator>
+    
+      <item>
+        <title>Recipe for High-Performance Teams</title>
+        <description>&lt;h1 id=&quot;high-performance-teams&quot;&gt;High-Performance Teams&lt;/h1&gt;
+
+&lt;p&gt;Recently on LinkedIn, one of my past colleagues posted a question that made me share my beliefs and learnings from being part of as well as creating, tendering and fostering high-performance teams.&lt;/p&gt;
+
+&lt;p&gt;Following was my answer to the post. It seems to have resonated with quite a few people.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Give a clear goal, provide autonomy in execution, create a psychologically safe environment, build a sense of team and support them in their pursuit. Do this and your team will get anything that they set their minds on.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I called this my mantra for high-performance teams.&lt;/p&gt;
+
+&lt;p&gt;Given it resonated with quite a few people, I thought there is worth in further explaining my thoughts about each of these parameters in creating a high-performance team, so as to validate my learnings as well as help others to align what they understood and benefit each other.&lt;/p&gt;
+
+&lt;h2 id=&quot;word-of-caution&quot;&gt;Word of caution&lt;/h2&gt;
+
+&lt;p&gt;You know what, it is not that you can create such teams just like that - like one day I walk into my office and with my new realisation over the weekend reading a LinkedIn post, I will today create a high-performance team. We all know that it does not work that way.&lt;/p&gt;
+
+&lt;p&gt;So, let’s get to it.&lt;/p&gt;
+
+&lt;h2 id=&quot;significance-of-clear-goal&quot;&gt;Significance of Clear Goal&lt;/h2&gt;
+
+&lt;p&gt;At the crux of any high-performance team is the goal. Without a goal, the team need not exist. But where it gets tricky and often gets lost is making the goal clearly understandable for everyone.&lt;/p&gt;
+
+&lt;p&gt;I personally find the monetary goals to be very tricky but usually common. Sometimes they don’t get accompanied by any context that emphasises on what business values.&lt;/p&gt;
+
+&lt;p&gt;I don’t think organisations lack context, I think they just fail to make it clear.&lt;/p&gt;
+
+&lt;p&gt;Consider this goal; &lt;em&gt;Generate revenue of $500,000 in the next one year&lt;/em&gt;, set by the company that is scaling and dreaming of exponential growth. It lacks crucial context that guides a team to make decisions.&lt;/p&gt;
+
+&lt;p&gt;While it might be obvious for the higher ups in the business that it is not acceptable to achieve it by taxing existing customers, unless this is clearly stated and communicated, chances are people are going to miss it. And we all know Murphy’s law is so true.&lt;/p&gt;
+
+&lt;p&gt;And there is this that I keep repeating to my business people,&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;we all hire smart people to solve problems in our business, if we are not making the problem obvious, damn! they are smart people and they are still going to solve &lt;em&gt;some problem&lt;/em&gt;. You can only pray that the problem they solve helps the business.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;So spend the time to ask why to business outcomes, when people want something, they have reasons. Sometimes it is easy for them to assume people know them or just that they are obvious.&lt;/p&gt;
+
+&lt;p&gt;In my experience &lt;em&gt;It surely pays to reason out and comprehensively describe the purpose of the goal.&lt;/em&gt; as you know what at the end of day &lt;em&gt;people who work to achieve the goal take decisions every day in an effort to help achieve it and you don’t want to leave there decisions subject to interpretation&lt;/em&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;autonomy-in-execution&quot;&gt;Autonomy in Execution&lt;/h2&gt;
+
+&lt;p&gt;Once a goal is clearly defined, how a team executes this goal should be completely under the control of the team.&lt;/p&gt;
+
+&lt;p&gt;To make a sense of it, let’s take a step back,
+Gone or those days where people are considered homogeneous resource. Successful leaders have learned that every individual is unique, each has their strength, weakness, opinions, preferences, personalities, which in essence qualify them.&lt;/p&gt;
+
+&lt;p&gt;Similarly, when a group of individuals come together, depending on the culture, background, individual qualities and personalities norms are formed. While they need to be fostered and cured towards a healthy culture, it is fairly obvious that the strengths and weakness of these teams vary.&lt;/p&gt;
+
+&lt;p&gt;So, a similar problem may require dealing different differently with different teams.&lt;/p&gt;
+
+&lt;p&gt;I don’t think anyone other than parents of young children can relate to this more. In my own family, I have two kids who have a completely different way of getting things done. When I give a similar activity to them, they take different routes. Kavin gets more immersed in the activity and comes out successful and won’t like to be disturbed till then. It demonstrates passion and focus. While Shakthi, is very social, she gets help, pleases people, gets work done while taking it easy. It should be noted that these qualities to change from time to time.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Individual or team, they have unique qualities and personalities. To be successful one has to play to their strength. Giving that freedom to play any game for the personalities strength is what autonomy in execution is about.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Having said that, a few years back I would have told that team needs to be - “just autonomous”. Of course, I have learned in the last few years that it is easy to stretch the boundaries of autonomy and end up being in a state where it is costly to fix or surface. Partly Leadership has an important play in it. However, I did learn that describing the boundaries of autonomy is important. While I like that High-performance teams challenge the outcomes of the business, it is not acceptable to build an environment where teams take rogue decisions and not being transparent in communication. Hence it is important to define the boundary of autonomy per problem being dealt with. I personally found the execution independence to be a safe boundary to start with.&lt;/p&gt;
+
+&lt;h2 id=&quot;psychologically-safe-environment&quot;&gt;Psychologically Safe Environment&lt;/h2&gt;
+
+&lt;p&gt;Have you been in a situation like this before,&lt;/p&gt;
+
+&lt;p&gt;I used to have a colleague who constantly establishes his superiority in conversations. Every time after we finished a problem-solving discussion or coding session, I always felt insignificant or plain dumb. I felt agitated and frustrated coming out of the conversations. I, in fact, can see how silly I have been and see how they are totally unlike me.&lt;/p&gt;
+
+&lt;p&gt;I took me a while to understand that there were several forces playing in such sessions. I seem to be constantly getting caught with trivial parts of conversation where superiority and sense of pride were being manipulated triggering by my survival instincts and threat responses that I lost my nature and tried to hold ground for things that are petty and useless.&lt;/p&gt;
+
+&lt;p&gt;While in the hindsight, I consider such cultural misfits should be straight away avoided in teams - and organisations should hire for culture, it could have well been the organisations set up and incentivisation that lead to this.&lt;/p&gt;
+
+&lt;p&gt;It is important to keep in mind that in any situation &lt;em&gt;a team strengths should be greater than the sum of individuals.&lt;/em&gt; Clearly not how it was with my experience above.&lt;/p&gt;
+
+&lt;p&gt;Personally, it took me a while to handle such personalities. But I don’t think they are necessary for the modern workplace - the threat response, the animal instinct. We want individuals to be able to give their best and that threats and animal instincts are not how we want to stimulate them.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;It is true that animal instincts and threats do enable living beings to deliver beyond their normal capacity like a Gazel dodging and escaping a Leopard. One has to keep in mind though that Gazel and Leopard do not have any commonality in their goal or they work together.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Having members of the team playing like that means that the net strength of a team falls below the sum of the individual strengths. This quite obviously does not help build a high-performance team.&lt;/p&gt;
+
+&lt;p&gt;So, what do we do? It is worth ensuring that people are not threatened in their workplace. They need to feel comfortable to share their thoughts, their opinions without feeling that they are manipulated of made fun of or being noted/ignored. They need to be able to present themselves without any concern, fear or worry. Only then they can bring their best.&lt;/p&gt;
+
+&lt;p&gt;It definitely requires moderation and coaching especially if this is fairly new to the team or organisation, It does take its norming time between members of the team.&lt;/p&gt;
+
+&lt;p&gt;Hiring for culture and Leaders in the organisation have an important role in making it possible.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;A psychologically safe team is one where _the net strength of a team is not just greater than the sum of their individual strength but where it is exponentially higher.
+Diversity plays an important role in enabling this exponential strength.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;building-a-sense-of-team&quot;&gt;Building a sense of team&lt;/h2&gt;
+
+&lt;p&gt;Providing Psycologically safe environment is a start. It is like a tendered and a cured ground where diverse seeds are just starting to grow. They need moderation, they need to understand their roles in the game. They need to know that they are going to hunt together. They need to form that relationship. They need to understand each other. They need to be able to pick up, what is to be ignored when said by an individual vs another. Learn and adapt to understand how individuals express their thoughts, what is their norm etc. This happens in every relationship but teams are not an exception.&lt;/p&gt;
+
+&lt;p&gt;If not supported, they will still form given a clear goal, good environment and good hiring practice, but it will take its own time. This stage is pretty much a curing stage - where it is only about enabling the teams.&lt;/p&gt;
+
+&lt;p&gt;Scrum and Agile processes excelled in these areas at the beginning of that era. Team building exercises, team outings, social functions, ceremonies help build them. They expedite the process of forming and norming.&lt;/p&gt;
+
+&lt;p&gt;An observer plays an important role in understanding the stages of forming and norming and facilitating that process - commonly labelled as a responsibility of scrum master or agile coach.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;When they are ready, they know how to hunt as a pack. They will know how to get work done leveraging individuals strengths and organise themselves around it.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;supporting-a-team-in-their-pursuit&quot;&gt;Supporting a team in their Pursuit&lt;/h2&gt;
+
+&lt;p&gt;Here is a role of leader, who has established a clear goal and set up a team that is pursuing it. Like any stories goes the team goes through challenges. Challenges that sometimes question the purpose of the team, sometimes test the fabric of togetherness in the team, that sometimes tries to swallow the team.&lt;/p&gt;
+
+&lt;p&gt;They require help. Sometimes they know exactly what they need, sometimes they don’t. Sometimes, they can explain what they need and sometimes they can’t explain it clearly. Even sometimes what they think they want can’t be taken at a face value.&lt;/p&gt;
+
+&lt;p&gt;This is where a Leaders ability comes to test. Like a child, they sometimes look up for help. I knew a leader who is just amazing in this quality. He plays an entertainers role in the team and fixes things.&lt;/p&gt;
+
+&lt;p&gt;Let me tell about him. We were working on fix bid time sensitive project at that time. The team has been awesome and getting things done at a great pace. But as pressure against the delivery date start building, there was a sense of tension that built up on the floor. You can sense people getting frustrated, tired and are going to break. This Manager who has least knowledge about the technology, business domain that we are working on was very innovative. He started embedding himself in the team, and his own style started entertaining the team. He started brings treats to the office, games to play. He even threw some impromptu parties and dance all during business hours in the office.&lt;/p&gt;
+
+&lt;p&gt;While one might see them as interruptions to work and delay things being delivered. In the hindsight, we all could feel how he loosened up the pressure, relieved tension and let the team keep firing at the rate it was doing without breaking down. We were able to finish it within the time albeit we reduced some low-value scope. Overall the team delivered a high value leading to a multi-million business.&lt;/p&gt;
+
+&lt;p&gt;So, there is no one way to support a team. I think the narrative is important when the team is struggling they need support and the leaders support them.&lt;/p&gt;
+
+&lt;p&gt;Here are few things, I have seen or did to support a team,&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Be entertainers when tension builds up in the team&lt;/li&gt;
+  &lt;li&gt;Support by providing training&lt;/li&gt;
+  &lt;li&gt;Support by providing some perks and incentives to keep them motivated&lt;/li&gt;
+  &lt;li&gt;Bringing external experts to help the situation&lt;/li&gt;
+  &lt;li&gt;Organising team activities&lt;/li&gt;
+  &lt;li&gt;Moderating incentives and KPI’s&lt;/li&gt;
+  &lt;li&gt;Most of all staying and checking in with the team.&lt;/li&gt;
+  &lt;li&gt;Ensuring they understand the importance of work they do for the business&lt;/li&gt;
+  &lt;li&gt;Share motivating and tell them how valuable they are for the organisation&lt;/li&gt;
+  &lt;li&gt;Negotiating the scope and outcomes&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This list is not definitely exhaustive.&lt;/p&gt;
+
+&lt;h2 id=&quot;do-anything-that-they-set-their-minds-on&quot;&gt;Do Anything That They Set Their Minds On&lt;/h2&gt;
+
+&lt;p&gt;This may sound like a bit exaggeration, I agree, but you know what we humans. We have learnt in several times in the past that nothing is impossible.&lt;/p&gt;
+
+&lt;p&gt;We just need the time, effort, support and the environment to get there. Sometimes they are viable and sometimes they are not viable. That is all the difference is.&lt;/p&gt;
+
+&lt;p&gt;Let’s go conquer!&lt;/p&gt;
+
+&lt;h3 id=&quot;a-piece-of-request&quot;&gt;A Piece of Request&lt;/h3&gt;
+
+&lt;p&gt;If you find any piece of this write up doesn’t stack up, confusing or not clear, please let me know. I am happy to learn, correct, explain, understand and ensure the content written makes sense.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 23 May 2018 00:00:00 +0800</pubDate>
+        <link>https://humblelistener.github.io/2018/05/23/Recipe-for-High-Performance-Teams/</link>
+        <guid isPermaLink="true">https://humblelistener.github.io/2018/05/23/Recipe-for-High-Performance-Teams/</guid>
+        
+        
+        <category>leadership</category>
+        
+        <category>teams</category>
+        
+      </item>
+    
+      <item>
+        <title>Organisations existence</title>
+        <description>&lt;h1 id=&quot;organisations-existence&quot;&gt;Organisations existence&lt;/h1&gt;
+
+&lt;p&gt;Most of the organisations seem to exist to fill the gap in helping people and world solve a particular problem - if it is not an obvious problem, it then becomes the organisations role to educate the existence the problem which they solve. I call it their reason for existence.&lt;/p&gt;
+
+&lt;p&gt;To give some simple examples,&lt;/p&gt;
+
+&lt;h3 id=&quot;linkedin&quot;&gt;LinkedIn&lt;/h3&gt;
+&lt;p&gt;The follow is a quote from &lt;a href=&quot;https://careers.linkedin.com/culture-and-values&quot;&gt;LinkedIn’s culture and values page&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Creating a digital map of the global economy to connect talent with opportunity at massive scale.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;twitter&quot;&gt;Twitter&lt;/h3&gt;
+&lt;p&gt;They call it their &lt;a href=&quot;https://about.twitter.com/company&quot;&gt;mission&lt;/a&gt;.
+&lt;em&gt;Our mission: To give everyone the power to create and share ideas and information instantly, without barriers.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;google&quot;&gt;Google&lt;/h3&gt;
+&lt;p&gt;Mission is what they call it (interestingly &lt;a href=&quot;https://www.google.com.au/search?q=google+about&amp;amp;rlz=1C5CHFA_enAU732AU732&amp;amp;oq=google+about&amp;amp;aqs=chrome.0.0l6.3533j0j4&amp;amp;sourceid=chrome&amp;amp;ie=UTF-8&quot;&gt;it is accessible only from google search&lt;/a&gt;),
+&lt;em&gt;Google’s mission is to organize the world’s information and make it universally accessible and useful.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;how-do-organisations-approach-it&quot;&gt;How do organisations approach it&lt;/h2&gt;
+&lt;p&gt;Every organisation has different ways to define their purpose. Some call them vision, some mission, some simply put together a statement.&lt;/p&gt;
+
+&lt;p&gt;I found how my previous employer &lt;a href=&quot;www.mindtree.com&quot;&gt;Mindtree&lt;/a&gt; did it quiet interesting.&lt;/p&gt;
+
+&lt;p&gt;They used to have a vision statement, a value statement and a mission derived from the vision statement that addresses the medium term.
+Back in the days, then chairman &lt;a href=&quot;https://www.linkedin.com/in/ashok-soota-7298/&quot;&gt;Respected Mr. Ashok Soota&lt;/a&gt; used to walk every employee through the “Vision, mission &amp;amp; values” session.&lt;/p&gt;
+
+&lt;p&gt;Recently they seem to have alignt to Mission and Values.&lt;/p&gt;
+
+&lt;h3 id=&quot;mindtrees-mission&quot;&gt;Mindtree’s mission&lt;/h3&gt;
+&lt;p&gt;Sounds a bit too vague to me.
+&lt;em&gt;We engineer meaningful technology solutions to help businesses and societies flourish.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;mindtrees-values&quot;&gt;Mindtree’s values&lt;/h3&gt;
+
+&lt;p&gt;&lt;em&gt;COLLABORATIVE SPIRIT
+Mindtree believes in developing true partnerships. We foster a collegial environment where individual perspectives are respected and honest dialogue is expected.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;UNRELENTING DEDICATION
+Mindtree is driven to meet client needs with determination and grit. We embrace tough challenges and do not rest until the problem is solved, the right way.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;EXPERT THINKING
+Mindtree brings robust skills and forward looking perspectives to solve customer challenges. We use proven knowledge to make recommendations and provide expert guidance to our customers.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;one-last-old-school-mission-vision-and-values-statement-from-the-very-old-bbc&quot;&gt;One last old school mission, vision and values statement from the very old BBC&lt;/h3&gt;
+
+&lt;p&gt;Mission
+&lt;em&gt;To enrich people’s lives with programmes and services that inform, educate and entertain.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Vision
+&lt;em&gt;To be the most creative organisation in the world.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;trend-towards-sustainability-and-social-responsibility&quot;&gt;Trend towards sustainability and social responsibility&lt;/h2&gt;
+
+&lt;p&gt;Corporate social responsibility and sutainable business practice are other differentiators that organisations bring to the market.&lt;/p&gt;
+
+&lt;p&gt;To me, the mean more - they mean as some wiseman once pointed out,&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;People don’t just buy products anymore, they buy into values they represent.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;what-do-workers-buy-in&quot;&gt;What do workers buy in?&lt;/h2&gt;
+
+&lt;p&gt;If values are the one that are bought in for even just day do day products, what about the work.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;To me, I am spending best part of my life working, I better have a clear and convincing buy in to the business - its mission and values it represents.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Else it is as good as calling it &lt;em&gt;a life wasted.&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 10 Jul 2017 00:00:00 +0800</pubDate>
+        <link>https://humblelistener.github.io/2017/07/10/Organisations-existene/</link>
+        <guid isPermaLink="true">https://humblelistener.github.io/2017/07/10/Organisations-existene/</guid>
+        
+        
+        <category>organisation mission</category>
+        
+        <category>organisation vision</category>
+        
+      </item>
+    
+      <item>
+        <title>Beta Environment configuration on AWS</title>
+        <description>&lt;h2 id=&quot;beta-environment-configuration-for-large-scale-application-hosted-on-aws&quot;&gt;BETA Environment configuration for large scale application hosted on AWS&lt;/h2&gt;
+
+&lt;p&gt;This is in continuation to the &lt;a href=&quot;http://humblelistener.github.io/2017/05/04/When-you-lose-confidence-in-code/&quot;&gt;previous post&lt;/a&gt;, I wrote about a situation where it was getting hard to deploy a particular application. I also mentioned how having a blue green like beta environment would help validate the behaviours of the system in near realtime without having a big impact on neither business or your end users.&lt;/p&gt;
+
+&lt;h3 id=&quot;aws-weighted-load-balancing&quot;&gt;AWS Weighted load balancing&lt;/h3&gt;
+&lt;p&gt;The solution proposed leveraged on the capability of load balancers to weigh the load to two different server cluster so that the behaviour can be validated in the production without great impact.&lt;/p&gt;
+
+&lt;p&gt;With that in mind in the time in between I was spiking different options in AWS ecosystem to understand how such an architecture can be built.&lt;/p&gt;
+
+&lt;h4 id=&quot;load-balancers-that-cannot-do-custom-weighing&quot;&gt;Load balancers that cannot do custom weighing&lt;/h4&gt;
+&lt;p&gt;This was a big surprise, I was hoping a lot on AWS &lt;a href=&quot;https://aws.amazon.com/elasticloadbalancing/applicationloadbalancer/&quot;&gt;Application Load Balancer&lt;/a&gt; or &lt;a href=&quot;https://aws.amazon.com/elasticloadbalancing/classicloadbalancer/&quot;&gt;Elastic Load Balancer&lt;/a&gt; to be able to support this easily.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Isn’t it a fair expectation to have weighted routing (weighted round robin anyone?) in a load balancer AWS?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;To my surprise, neither ALB or ELB in its current form is capable of doing it. Seriously yes, I contacted support and they confirmed it.&lt;/p&gt;
+
+&lt;p&gt;However, their managed DNS service - &lt;a href=&quot;https://aws.amazon.com/route53/&quot;&gt;Route 53&lt;/a&gt; supports it. While it is a relief, given we are invested in AWS at the moment, it does come with the limitation that DNS caching can be tricky, the residual connections to a server that is rolled back is possible.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-winning-solution-design&quot;&gt;The winning solution design&lt;/h3&gt;
+&lt;p&gt;So after being surprised by load balancers in AWS and with the only option of doing it with a combination of Route 53 and ALB’s, this is what we came up with.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://github.com/humblelistener/humblelistener.github.io/raw/sources/assets/BetaABtesting%20diagram.png&quot; alt=&quot;Solution design for Beta AB set up&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The gif provides a better picture on spike and how it will work.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://github.com/humblelistener/humblelistener.github.io/raw/sources/assets/betaenvlsapp.gif&quot; alt=&quot;how it works!&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;what-are-the-stated-advantages&quot;&gt;What are the stated advantages&lt;/h3&gt;
+
+&lt;p&gt;I did briefly touch about it in the &lt;a href=&quot;http://humblelistener.github.io/2017/05/04/When-you-lose-confidence-in-code/&quot;&gt;previous post&lt;/a&gt;. In the hindsight, it is easy to explain why it is required for us now for our line of business application and how it might apply to you,&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Reduce impact of business when improving the system.&lt;/li&gt;
+  &lt;li&gt;Provide a safe environment for technical improvements on the platform.&lt;/li&gt;
+  &lt;li&gt;A ground work for to enable iterating on the software effectively.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;So now that spike is done, the next step is the big test. We have to create a build and deployment pipeline to deploy in such an environment. Wish me good luck with it. I will share my experience as I finish each step.&lt;/p&gt;
+
+&lt;p&gt;In the meanwhile, If you find this useful or have any better ways of achieving this please do leave a note and I will be very happy.&lt;/p&gt;
+
+&lt;p&gt;Till then, Cheers!&lt;/p&gt;
+</description>
+        <pubDate>Sun, 11 Jun 2017 00:00:00 +0800</pubDate>
+        <link>https://humblelistener.github.io/2017/06/11/beta-environment-on-aws-for-large-monolith-applications/</link>
+        <guid isPermaLink="true">https://humblelistener.github.io/2017/06/11/beta-environment-on-aws-for-large-monolith-applications/</guid>
+        
+        
+        <category>Solution design</category>
+        
+        <category>Beta testing</category>
+        
+        <category>AB testing</category>
+        
+        <category>AWS Beta testing</category>
+        
+      </item>
+    
+      <item>
+        <title>What do you do when you lose confidence in code?</title>
+        <description>&lt;h1 id=&quot;what-do-you-do-when-you-lose-confidence-in-code&quot;&gt;What do you do when you lose confidence in code?&lt;/h1&gt;
+
+&lt;p&gt;This is happening to me.&lt;/p&gt;
+
+&lt;p&gt;One of the inherited product I have is so complex that investing time and money on any of the following feels useless.&lt;/p&gt;
+
+&lt;h3 id=&quot;unit-tests&quot;&gt;Unit tests&lt;/h3&gt;
+&lt;p&gt;The technology literally doesn’t bend to write unit tests. I know the rebel in you telling that there should be a way to write unit tests on it. But I say, it is not worth it.&lt;/p&gt;
+
+&lt;h3 id=&quot;functional-ui-tests&quot;&gt;Functional UI tests&lt;/h3&gt;
+&lt;p&gt;Even if I overcome the response time, feedback cycle and brittleness of the test suite, It is hard to convince myself that a good coverage can be achieved without large efforts.&lt;/p&gt;
+
+&lt;h3 id=&quot;consumer-driven-contracts&quot;&gt;Consumer-driven contracts&lt;/h3&gt;
+&lt;p&gt;Wish I can find a way to do this in the given technology. The complex branching, conditional flows and data-driven decisions in the system make me think even if I magic a way to do consumer driven contracts on this system, I will age by the time I set up contracts with decent coverage.&lt;/p&gt;
+
+&lt;h3 id=&quot;manualexploratory-testing&quot;&gt;Manual/Exploratory testing&lt;/h3&gt;
+&lt;p&gt;God forbid, this is the option that we are relying currently on the product along with some basic functional UI test coverage. As with any manual work, it has a big gap for human error and hell a lot of time it will take if every code path being affected is to be tested, especially when trying to change the underlying concepts of the system.&lt;/p&gt;
+
+&lt;p&gt;In such a state, it is not surprising that there is a urge to hide under the desk after the deploy button is clicked every time.&lt;/p&gt;
+
+&lt;h2 id=&quot;where-is-the-hope&quot;&gt;Where is the hope?&lt;/h2&gt;
+&lt;p&gt;The last hope, I am thinking of pursuing is to set up a beta environment and set up a traffic splitting between live and beta environment. A traffic split that can be finely controlled. So any risky change can be deployed to a variable percentage of users, monitor and decide to increase of decrease the percentage over time with confidence.&lt;/p&gt;
+
+&lt;p&gt;This is not a new technique, this is similar to A/B testing. Nginx like proxies and load balancers pioneered it.&lt;/p&gt;
+
+&lt;p&gt;In this particular case, I am thinking of pursuing AWS’s Application load balancer to achieve it.&lt;/p&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;https://aws.amazon.com/blogs/devops/introducing-application-load-balancer-unlocking-and-optimizing-architectures/&quot;&gt;A/B testing section in the AWS Load balancing documentation here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I shall share more details on how it went. In the meanwhile, I am to learn from your experience, if you leave comments.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 04 May 2017 00:00:00 +0800</pubDate>
+        <link>https://humblelistener.github.io/2017/05/04/When-you-lose-confidence-in-code/</link>
+        <guid isPermaLink="true">https://humblelistener.github.io/2017/05/04/When-you-lose-confidence-in-code/</guid>
+        
+        
+        <category>software testing</category>
+        
+        <category>software engineering</category>
+        
+        <category>A/B testing</category>
+        
+        <category>Traffic splitting</category>
+        
+      </item>
+    
+      <item>
+        <title>Psychological safety - Building high performance team</title>
+        <description>&lt;h2 id=&quot;psychological-safety&quot;&gt;Psychological safety&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;Building high performance team series&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Before I realized, my interest in software engineering and building quality software lead me to having a passion in building high performance team.&lt;/p&gt;
+
+&lt;p&gt;In pursuing it, I stumbled on to how &lt;em&gt;Psychological safety&lt;/em&gt; is so important in building a high performance team.&lt;/p&gt;
+
+&lt;p&gt;In this post, I am going to put down my learnings, observations and materials that helped me understand this concept.&lt;/p&gt;
+
+&lt;h3 id=&quot;understanding-psychological-safety&quot;&gt;Understanding Psychological safety&lt;/h3&gt;
+
+&lt;p&gt;As much as it sounds like a hifi term, every individual would have definitely experienced it.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;It is that situation when working with a group of people where you find yourselves comfortable to share your thoughts, ideas and opinions&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;where you feel you are accepted and respected&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;where you don’t have to be worried about being ridiculed, humiliated or punished&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Chances are some of us would have experienced it several times in their work life. Sometimes where they just occurred accidentally (more fortunately) or in other occasions after spending a good amount of time within the same working group.&lt;/p&gt;
+
+&lt;p&gt;Either way it would have been the most productive working group. Most of us will have some nice memories of such working groups that we cherish thinking about every now and then.&lt;/p&gt;
+
+&lt;p&gt;The challenge however is to understand how to create a environment that fosters such a set up.&lt;/p&gt;
+
+&lt;h3 id=&quot;creating-a-psychologically-safe-environment&quot;&gt;Creating a psychologically safe environment&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://g.co/kgs/z2Lcwf&quot;&gt;Amy C. Edmondson&lt;/a&gt; a notable thought leader in her &lt;a href=&quot;https://www.youtube.com/watch?v=LhoLuui9gX8&quot;&gt;TED talk “Building a psychologically safe workplace”&lt;/a&gt; outlines a set up that fosters psychological safety.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Frame the work as learning problem and not as execution problem&lt;/li&gt;
+  &lt;li&gt;Acknowledge your own fallibility&lt;/li&gt;
+  &lt;li&gt;Model curiosity&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Much details about these paths are explained in her TED talk.&lt;/p&gt;
+
+&lt;h3 id=&quot;some-clues&quot;&gt;Some clues&lt;/h3&gt;
+
+&lt;p&gt;The following vocabulary helps developing listening skills around psychological safety.&lt;/p&gt;
+
+&lt;h4 id=&quot;sounds-of-traps-in-your-team&quot;&gt;Sounds of traps in your team&lt;/h4&gt;
+
+&lt;p&gt;&lt;em&gt;“I always felt like I had to prove myself”&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;“I always felt like I had to be careful not to make mistakes around them”&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;“People would try to show authority by speaking louder or talking over each other”&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;“only a few members speak most of the time”&lt;/em&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;good-signals&quot;&gt;Good signals&lt;/h4&gt;
+
+&lt;p&gt;&lt;em&gt;“we all felt like we could say anything to each other”&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;“No one worried that the rest of the team was judging them”&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;“I got your back!”&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;“Team sharing jokes”&lt;/em&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;myth&quot;&gt;Myth&lt;/h4&gt;
+
+&lt;p&gt;&lt;em&gt;“building the best teams meant combining the best people”&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;impact-of-psychological-safety-on-team-performance&quot;&gt;Impact of Psychological safety on team performance&lt;/h3&gt;
+
+&lt;p&gt;Below is the picture representing the &lt;a href=&quot;https://en.wikipedia.org/wiki/Tuckman%27s_stages_of_group_development&quot;&gt;four stages of group development by Bruce Tuckman&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://3.bp.blogspot.com/-H9_AmIgf464/TaJeGbKuyQI/AAAAAAAAARs/H_lLhVAXyeQ/s1600/Tuckmans+model.png&quot; alt=&quot;forming storming norming performing&quot; /&gt;
+image credit &lt;a href=&quot;http://www.aleanjourney.com/2011/04/stages-of-high-performance-teams.htmlhttp://www.aleanjourney.com/2011/04/stages-of-high-performance-teams.html&quot;&gt;www.aleanjourney.com&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;A psychologically safe environment helps expedite forming and storming phase and get to norming and performing faster.&lt;/p&gt;
+
+&lt;h4 id=&quot;closing-comments&quot;&gt;Closing comments&lt;/h4&gt;
+
+&lt;p&gt;This post has taken inspirations from several publications and articles about Psychological safety. One of the noteworthy post, the &lt;a href=&quot;https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html?_r=0&quot;&gt;learnings of Psychological safety from google&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;What are your thoughts?&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;What do you think helped you feel safe when last time you found yourselves in a safe group set up?&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 04 Apr 2017 00:00:00 +0800</pubDate>
+        <link>https://humblelistener.github.io/2017/04/04/Psychological-safety/</link>
+        <guid isPermaLink="true">https://humblelistener.github.io/2017/04/04/Psychological-safety/</guid>
+        
+        
+        <category>high-performance-team</category>
+        
+      </item>
+    
+      <item>
+        <title>Configure ssh on windows for using gitlab or github</title>
+        <description>&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=G1cGAnFi8dQ&quot; title=&quot;Configure ssh on windows&quot;&gt;&lt;img src=&quot;http://img.youtube.com/vi/G1cGAnFi8dQ/0.jpg&quot; alt=&quot;Configure ssh on windows for using git&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 12 Mar 2017 00:00:00 +0800</pubDate>
+        <link>https://humblelistener.github.io/2017/03/12/Ssh-configuring-on-windows/</link>
+        <guid isPermaLink="true">https://humblelistener.github.io/2017/03/12/Ssh-configuring-on-windows/</guid>
+        
+        
+        <category>programming</category>
+        
+      </item>
+    
+      <item>
+        <title>An Enabling CI system</title>
+        <description>&lt;h1 id=&quot;my-two-cents-on-ci&quot;&gt;My two cents on CI,&lt;/h1&gt;
+
+&lt;p&gt;One of the important features for agile continuously delivered Microservice is a lean process both in engineering and in systems. The CI system is critical to it. Abilities like&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Self-contained build specification&lt;/li&gt;
+  &lt;li&gt;Simple specification&lt;/li&gt;
+  &lt;li&gt;Good community support and references&lt;/li&gt;
+  &lt;li&gt;No hassle of managing agents&lt;/li&gt;
+  &lt;li&gt;Easy to onboard&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;immensely simplify and let the developers concentrate on delivering the working software.&lt;/p&gt;
+
+&lt;p&gt;And Travis CI fits this bill, very well.&lt;/p&gt;
+
+&lt;h2 id=&quot;a-brief-on-what-self-contained-build-specification&quot;&gt;A brief on what self contained build specification&lt;/h2&gt;
+
+&lt;p&gt;If you can mention all about a built process in just one place, one file and include it along with the code in the same repository, in a convenient specification, &lt;em&gt;how awesome is it?&lt;/em&gt; That is exactly the Travis yml file.&lt;/p&gt;
+
+&lt;p&gt;Of course there are other build systems like CircleCI, Codeship, AppVeyor (for Windows) etc that take the similar route.&lt;/p&gt;
+
+&lt;h3 id=&quot;disadvantage-of-having-build-script-scattered&quot;&gt;Disadvantage of having build script scattered&lt;/h3&gt;
+&lt;p&gt;Traditional build systems have this problem, where part of the scripts required for build-deploy pipeline gets included along with the source code in its repository, while the build agent also holds intelligence and knowledge has knowledge as to how to build and deploy.&lt;/p&gt;
+
+&lt;p&gt;This scattered nature of such build process itself impedes the transparency and simplicity of a autonomous self contained system. This kind of system worked fine when the development team need not have to bother about deployment.&lt;/p&gt;
+
+&lt;p&gt;This even worked when we need to deploy regularly but had an expert and his time to get this correct (remember the role called Build manager?). But, do we need need to depend on a expert every time? Especially with a microservice architecture, where new services come up every day? I say no.&lt;/p&gt;
+
+&lt;h2 id=&quot;my-take-on-some-widespread-limitations-with-travis-ci&quot;&gt;My take on some widespread limitations with Travis CI&lt;/h2&gt;
+
+&lt;h4 id=&quot;cannot-build-windows-based-net-code&quot;&gt;Cannot build windows based .NET code&lt;/h4&gt;
+&lt;p&gt;This is only a limitation for time being, till we all move on to platform agnostic dotnet frameworks.&lt;/p&gt;
+
+&lt;h4 id=&quot;cannot-pipe-the-build-process&quot;&gt;Cannot pipe the build process&lt;/h4&gt;
+&lt;p&gt;This one came up several times when deciding on CI system. However for the last one year, I haven’t heard anyone needing it. In my opinion, the need for pipelining builds smells an incorrect coupling. Most of the times either
+a. domain boundaries are incorrect, so we have to queue builds to get one functionality out
+or
+b. code boundaries are incorrect, so we have to get more than repo built to get a functionality out.&lt;/p&gt;
+
+&lt;h4 id=&quot;only-limited-agents&quot;&gt;Only limited agents&lt;/h4&gt;
+&lt;p&gt;If a build is taking less than 5 mins including deployment, Do you think the availability of agent will block you? I bet not. We have been living with 2 concurrent jobs / agents for almost one year. We currently have around 15 active repositories using Travis CI and haven’t had a blocking build situation.&lt;/p&gt;
+
+&lt;p&gt;After all, when it is getting blocked, we can simply shell some money and get more concurrent jobs.&lt;/p&gt;
+
+&lt;h4 id=&quot;what-is-your-ci-story&quot;&gt;What is your CI story?&lt;/h4&gt;
+&lt;p&gt;Is something not working in your Microservice journey?&lt;/p&gt;
+
+&lt;p&gt;What causes the most frustration in your CI process?&lt;/p&gt;
+</description>
+        <pubDate>Thu, 23 Jun 2016 00:00:00 +0800</pubDate>
+        <link>https://humblelistener.github.io/2016/06/23/Enabling-Continuous-integration-system/</link>
+        <guid isPermaLink="true">https://humblelistener.github.io/2016/06/23/Enabling-Continuous-integration-system/</guid>
+        
+        
+        <category>programming</category>
+        
+        <category>continuous-integration</category>
+        
+        <category>continuous-deployment</category>
+        
+        <category>travis-ci</category>
+        
+      </item>
+    
+      <item>
+        <title>Profile http requests made by webserver</title>
+        <description>&lt;p&gt;Tracing http requests made from server&lt;/p&gt;
+
+&lt;p&gt;Once in a while, we need to trace the http calls made from the web/app
+server. It will be very useful especially in scenarios where you are
+having performance problems with web services and not sure where to look
+for. We all know fiddler is very useful in tracking the http calls from
+the browser, but, put in right configuration this tool will be handy in
+tracking web service calls as well. I am going to briefly write some of
+the configurations that may have to be done for getting this working.
+(consider its more of a personal reference document)&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Run your fiddler under the context of app pool user.&lt;/li&gt;
+  &lt;li&gt;Recycle the app pool&lt;/li&gt;
+  &lt;li&gt;The above steps did not solve your problem, under system.net element in your
+web.config,
+insert the following    &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;  &amp;lt;defaultProxy&amp;gt;
+    &amp;lt;proxy autoDetect=&quot;true&quot; proxyaddress=&quot;http://127.0.0.1:8888&quot;/&amp;gt;        
+  &amp;lt;/defaultProxy&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;If all this did not solve, ensure that fiddler is point to port 8888
+(which is does by default)&lt;/li&gt;
+  &lt;li&gt;sometimes fiddler though captures https
+handshakes, it may not be able to decrypt the actual http requests In
+such cases&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;goto fiddler options -&amp;amp;gt; Https tab, ensure &quot;Decrypt Https
+traffic&quot;&lt;/code&gt;  is checked.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://docs.telerik.com/fiddler/configure-fiddler/tasks/decrypthttps/&quot;&gt;Telerik fiddler documentation&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 20 May 2014 00:00:00 +0800</pubDate>
+        <link>https://humblelistener.github.io/2014/05/20/trace-webserver-service-http-calls/</link>
+        <guid isPermaLink="true">https://humblelistener.github.io/2014/05/20/trace-webserver-service-http-calls/</guid>
+        
+        
+        <category>programming</category>
+        
+      </item>
+    
+      <item>
+        <title>Feature switches</title>
+        <description>&lt;p&gt;Thought process behind feature &amp;amp; toggles.&lt;/p&gt;
+
+&lt;p&gt;Off late Feature switches are a common practice in software development. The credit goes to short development sprints boosted by Agile practices, where the team works on a new feature / section that will be disabled (better term hidden away from user / are not part of the current processing flow) in the immediate release till all parts of the feature is complete and ready to be used.&lt;/p&gt;
+
+&lt;p&gt;Software architects and engineers handle this problem using different tools and techniques.&lt;/p&gt;
+
+&lt;p&gt;What is a feature?
+To give some examples and put a definition of feature in context, a feature can be a new user interface component (like upgraded text area control in web app), upgrading of data store (moving to a new database), a change in the workflow or simply bringing in a new component into an existing process line (naively achieved using  if.. else clause).&lt;/p&gt;
+
+&lt;p&gt;So, What are really features?
+My definition - “feature is that it is a functional piece of a program or process that is already part of or going to be part of a software application.”&lt;/p&gt;
+
+&lt;p&gt;The term Feature is clearly a functional programming term - the most relevant object oriented programming term that I can think of is a module.&lt;/p&gt;
+
+&lt;p&gt;How a feature can be viewed from an Object oriented perspective?&lt;/p&gt;
+
+&lt;p&gt;To define this in object oriented programming terms, a feature is a new implementation of an interface which will injected&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://martinfowler.com/bliki/FeatureToggle.html&quot;&gt;Martin Fowler reference on feature toggles&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://c2.com/cgi/wiki?SwitchStatementsSmell&quot;&gt;switch statement smells&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Feature toggling should be restricted to only one point in code.
+Typically entry point, which works well if the feature is user interface related.&lt;/p&gt;
+
+&lt;p&gt;Incase of features that dont correspond to UI. The features must be designed to be toggled from dependency injection configuration. Typically a class like AutofacConfig.cs or similar.&lt;/p&gt;
+
+&lt;p&gt;Examples:&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Unity.DefaultContainer.Register(typeof(ILoginProvider), typeof(CookieBasedLoginProvider));&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;CookieBasedLoginProvider is a feature here.&lt;/p&gt;
+
+&lt;p&gt;Lets say when the organization needs to have a TokenBasedAuthentication, simply a TokenBasedLoginProvider like feature can be implemented and switched directly.&lt;/p&gt;
+
+&lt;p&gt;Depending on the feature switch, corresponding Provider can be injected. This way, we dont have to bother about rest of the application and can keep the change limited to the implementation and configuration.&lt;/p&gt;
+
+&lt;p&gt;Advantages&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Unit test only the feature implemented.&lt;/li&gt;
+  &lt;li&gt;Minimal risk as modifications are limited to existing code&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sat, 13 Jul 2013 00:00:00 +0800</pubDate>
+        <link>https://humblelistener.github.io/2013/07/13/feature-switching/</link>
+        <guid isPermaLink="true">https://humblelistener.github.io/2013/07/13/feature-switching/</guid>
+        
+        
+        <category>programming</category>
+        
+      </item>
+    
+      <item>
+        <title>Moved on from Mindtree to Readify</title>
+        <description>&lt;p&gt;For all those who did not know..&lt;/p&gt;
+
+&lt;p&gt;I left Mindtree early May 2013 and joined Readify in Melbourne, Australia.&lt;/p&gt;
+
+&lt;p&gt;I should call myself very fortunate to have secured a job while still ashore from Oz and to have joined this company.&lt;/p&gt;
+
+&lt;p&gt;The best thing I can tell about Readify is the people.&lt;/p&gt;
+
+&lt;p&gt;Most of them are &lt;code class=&quot;highlighter-rouge&quot;&gt;MVP&lt;/code&gt; in other or the other area.&lt;/p&gt;
+
+&lt;p&gt;The environment and people are more welcoming than I actually expected. The organization has a friendly and open culture and puts real efforts in the professional development of the consultants.&lt;/p&gt;
+
+&lt;p&gt;There are various programs and options available in the organization to quench all the type of thirst a software engineer could have.&lt;/p&gt;
+
+&lt;p&gt;Readify has been on the Great Places to Work in Australia Institutes list of companies consistently for the last 3 or 4 years.
+This year (2013) it was positioned at 15.&lt;/p&gt;
+
+&lt;p&gt;Readify is the awarded the Partner of the year across world from Microsoft to their contribution to the Microsoft ecosystem.&lt;/p&gt;
+
+&lt;p&gt;So, I started with them this May and have already touched upon a couple of gigs.. one for the Port of Melbourne corporation and another for seek.com.au.&lt;/p&gt;
+
+&lt;p&gt;Currently in the seek.com.au’s gig, I am working along with highly motivated Seek’s team to develop their website.&lt;/p&gt;
+
+&lt;p&gt;In this role, I will be using my client side MVC knowledge and experience are to be leveraged, which I am looking forward this as an opportunity to hone my skills in this space and learn a few interesting and new client side frameworks and tools.&lt;/p&gt;
+
+&lt;p&gt;Catch you all in the next blog… thanks for reading..
+Couple of references about Readify&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://readify.net/&quot;&gt;Readify&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.greatplacetowork.com.au/best-companies/best-places-to-work-in-australia&quot;&gt;Great places to work in Australia&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 21 May 2013 00:00:00 +0800</pubDate>
+        <link>https://humblelistener.github.io/2013/05/21/resigned-from-mindtree/</link>
+        <guid isPermaLink="true">https://humblelistener.github.io/2013/05/21/resigned-from-mindtree/</guid>
+        
+        
+        <category>career</category>
+        
+      </item>
+    
+  </channel>
+</rss>
