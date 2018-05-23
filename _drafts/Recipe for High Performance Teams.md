@@ -1,6 +1,6 @@
 # High Performance Teams
 
-Recently on LinkedIn, one of long ago colleague posted a question on the lines of that made me think about my beleif and learnings of creating and fostering high performance team environments.
+Recently on LinkedIn, one of my previous colleague posted a question that made me share my beleifs and learnings from creating, tendering and fostering high performance teams.
 
 Following was my answer to the post. It seem to have resonated with quiet a few people.
 
@@ -45,6 +45,33 @@ I don't thin anyone other than parents of young children can relate to this more
 > Individual or team, they have unique qualities and personalities. To be successful one has to play to their strength. Giving that freedom to play any game for the personalities strength is what autonomy in execution is about.
 
 Having said that, a few years back I would have told that team needs to be - "just autonomous". Ofcourse I have learned in the last few years that it is easy to strech the boundaries of autonomy and end up being in state where it is costly to fix or surface. Partly Leadership has an important play in it. However, I did learn that describing the boundaries of autonomy is important. While I like that High performance teams challenge the outcomes of the business, it is not acceptable to build an environment where teams take rogue decisions and not being transparent in communication. Hence it is important to define the boundary of autonomy per problem being dealt with. I personally found the execution independence to be a safe boundary to start with.
+
+## Psychologically Safe Environment
+
+Have you been in a situation like this before,
+
+I used to have a colleague who constantly establishes his superiority in conversations. Every time after we finished a problem solving discussion or coding session, I always felt insignificant or plain dumb. I felt agitated and frustated coming out of the conversations. I infact can see how silly I have been and see how they are totally unlike me.
+
+I took me a while to understand that there were several forces playing in such sessions. I seem to be constantly getting caught with trivial parts of conversation where superiorty and sense of pride were being manipulated triggering by my survival instincts and threat responses that I lost my nature and tried to hold ground for things that are petty and useless.
+
+While in the hindsight, I consider such cultural misfits should be straight away avoided in teams - and organisations should hire for culture (seperae topic altogether), it could have well been the organisations set up and incentivation that lead to this (another topic altogether again)
+
+It is important to keep in mind that in any situation _a team strengths should be greater than the sum of invidiuals._ Clearly not how it was with my experience above.
+
+Personally it took me a while to handle such personalities. But I don't think they are necessary in the modern work place - the threat response, the animal instinct. We want individuals to be able to give their best and that threats and animal instincts are not how we want to stimulate them.
+
+_It is true that animal instincts and threats do enable living beings to deliver beyond their normal capacity, like a Gazel dodging and escaping a Leopard. One has to keep in mind though that Gazel and Leopard do not have any commonality in their goal or they work together._
+
+Having members of the team playing like that means that the net strength of a team falls below the sum of the individual strengths. This queit obviously does not help build a high performance team.
+
+So, what do we do? It is worth ensuring that people are not threatened in their work place. They need to feel comfortable to share their thoughts, their opinions without feeling that they are manipulated of made fun of or being noted/ignored. They need to be able to present themselves without any concern, fear or worry. Only then they can bring their best.
+
+It definitely requires moderation and coaching especially if this is fairly new to the team or organisation, It does take its norming time between members of the team.
+
+Hiring for culture and Leaders in organisation have an important role in making it possible.
+
+> A psycologically safe team is one where _the net strength of a team is not just greater that the sum of their individual strength but where it is exponentially higher.
+> Diversity plays an important role in enabling this exponential strength.
 
 ----
 ### Revisit later
