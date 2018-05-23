@@ -12,9 +12,9 @@ Given it resonated with quiet a few people, I thought there is worth in further 
 
 ## Word of caution
 
-You know what, it is not that you can create such teams just like that - like one day I walk into my office and with my new realisation over the weekend reading a LinkedIn post, I will today create a high performance team. we all know that.
+You know what, it is not that you can create such teams just like that - like one day I walk into my office and with my new realisation over the weekend reading a LinkedIn post, I will today create a high performance team. We all know that it does not work that way.
 
-So, I thought it with more breaking down and highlight parts of this mantra and share my experience.
+So, lets get to it.
 
 ## Signifance of Clear Goal
 
@@ -90,6 +90,36 @@ Scrum and Agile processes excelled in this areas in the beginning of that era. T
 A observer plays a important role in understanding the stages of forming and norming and facilitating that process - commonly labelled as a responsibility of scrum master or agile coach.
 
 >When they are ready, they know how to hunt as a pack. They will know how to get work done leveraging individuals strengths and organise themselves around it.
+
+## Supporting a team in their Pursuit
+
+Here is a role of leader, who has established a clear goal and set up a team that is pursuing it. Like any stories goes the team goes through challenges. Challenges that some time question the purpose of the team, sometimes test the fabric of togetherness in the team.
+
+I am pretty sure, we have all been through it and how it feels like when,
+
+* People stepping up on each other toes and finding what used to collaborative set up in changing to the worse
+* A team encouters a failure
+* stumbles upon a roadblock and not finding a way out
+* Losing morale due to environmental changes
+* Losses team due to lack of knowledge or experience
+* Emergence of an tangential incentive away from the goal
+
+So what does the Leader do when things like this happen? Simple, they back the team. Like it is important that individuals in the team back each other, it is equally important the team gets the support.
+
+Backing here means doing several things. I know a successful Leader/Manager, who used to play the role of a entertainer. Let me tell about him. We were working on fix bid time sensitive project at that time. The team has been awesome and getting things done at a great pace. But as pressure against the delivery date start building, there was sense of tension that builds up every now and then. This Manager who has least knowledge about the technology, business domain that we are working on was very innovative. He understood that the pace at which we are working is not sustainable unless we have fun and enjoy things ensured every single day there is some surprise to the team. Be it ordering innovative food, celebrating random reasons with grandness or just playing music and impromptu dance on the floor. He was very successful in lightening the situation.
+
+That is just an example to tell that Leaders are responsible and have to be innovative to ensure that team stays highly performant.
+
+Some of the things that I noticed are,
+
+1. Be entertainers when tension builds up and losen the tension
+1. Support by providing training
+1. Support by providing some perks and incentives to keep them motivated
+1. Brining external experts to help the situation
+1. Organising team activities
+1. Moderating incentives and KPI's
+1. and most of all staying in touch with the team.
+
 
 ----
 ### Revisit later
