@@ -29,13 +29,29 @@ So spend time to ask why to business outcomes, when people want something, they 
 
 In my experience _It surely pays to reason out and comprehnesively describe the purpose of goal._ as you know what at the end of day _people who work to achieve the goal take decisions everyday in effort to help achieve it and you don't want to leave there decisions subject to interpretation_.
 
+## Autonomy in Execution
+
+Once a goal is clearly defined, how a team executes this goal should be completely under the control of team.
+
+To make a sense of it, lets take a step back,
+Gone or those days where people are considered homogeneous resource. Successful leaders have learned that, every individual is unique, each have their strengh, weakness, opinions, preferences, personalities, which in essence qualify them.
+
+Similarly, when a group of individuals come together, depending on the culture, background, individual qualities and personalities norms are formed. While they need to be fostered and cured towards a healthy culture, it is the fairly obvious that the strengths and weakness of these teams vary.
+
+So, similar problem may require dealing different differently with different teams.
+
+I don't thin anyone other than parents of young children can relate to this more. In my own family, I have two kids who have completely different way of getting things done. When I give a similar activity to them, they take different routes. Kavin gets more immersed into the activity and comes out successful and won't like to be disturbed till then. It demonstrates passion and focus. While Shakthi, is very social, she gets help, pleases people, gets work done while taking it easy. It should be noted that these qualities to change from time to time.
+
+> Individual or team, they have unique qualities and personalities. To be successful one has to play to their strength. Giving that freedom to play any game for the personalities strength is what autonomy in execution is about.
+
+Having said that, a few years back I would have told that team needs to be - "just autonomous". Ofcourse I have learned in the last few years that it is easy to strech the boundaries of autonomy and end up being in state where it is costly to fix or surface. Partly Leadership has an important play in it. However, I did learn that describing the boundaries of autonomy is important. While I like that High performance teams challenge the outcomes of the business, it is not acceptable to build an environment where teams take rogue decisions and not being transparent in communication. Hence it is important to define the boundary of autonomy per problem being dealt with. I personally found the execution independence to be a safe boundary to start with.
+
+----
+### Revisit later
 
 Grown up people working in teams can understand that all goals are not noble.
 
-When the goal is not noble enough and is not going with ones own personal values, It is a good idea to evaluate the room to influence the business on the rightful value and pursue it or leave the busienss sighting that as a reason.
-
-
-
+When the goal is not noble enough and is not going with ones own personal values, It is a good idea to evaluate the room to influence the business on the rightful value and pursue it or leave the busieness sighting that as a reason.
 
 #### Let them define the problem and the solution
 
