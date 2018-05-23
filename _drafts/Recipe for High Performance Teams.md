@@ -1,12 +1,18 @@
 # High Performance Teams
 
-Recently on LinkedIn, one of my previous colleague posted a question that made me share my beleifs and learnings from creating, tendering and fostering high performance teams.
+Recently on LinkedIn, one of my past colleague posted a question that made me share my beleifs and learnings from being part of as well as creating, tendering and fostering high performance teams.
 
 Following was my answer to the post. It seem to have resonated with quiet a few people.
 
 > Give a clear goal, provide autonomy in execution, create a psycologically safe environment, build a sense of team and support them in their pursuit. Do this and you team will get anything that they set their minds on.
 
-I called this my mantra for high performance teams. But you know what, it is not that you can create such teams just like that - like one day I walk into my office and with my new realisation over the weekend reading a LinkedIn post, I will today create a high performance team.
+I called this my mantra for high performance teams.
+
+Given it resonated with quiet a few people, I thought there is worth in further furnishing details and explanations about each of these parameters in creating high performance team, so as to validate my learnings as well as help others to align what they understood and benefit each other.
+
+## Word of caution
+
+You know what, it is not that you can create such teams just like that - like one day I walk into my office and with my new realisation over the weekend reading a LinkedIn post, I will today create a high performance team. we all know that.
 
 So, I thought it with more breaking down and highlight parts of this mantra and share my experience.
 
@@ -72,6 +78,18 @@ Hiring for culture and Leaders in organisation have an important role in making 
 
 > A psycologically safe team is one where _the net strength of a team is not just greater that the sum of their individual strength but where it is exponentially higher.
 > Diversity plays an important role in enabling this exponential strength.
+
+## Building a sense of team
+
+Providing Psycologically safe envinronent is a start. It is like a tendered and cured ground where diverse seeds are just starting to grow. They need moderation, they need to understand their roles in the game. They need to know that they are going to hunt together. They need to form that relationship. They need to understand each other. They need to be able to pick up, what is to ignored when said by a individual vs another. Learn and adapt to understand how inviduals express their thoughts, what is their norm etc. This happens in every relationship but teams are not an exception.
+
+If not supported, they wll still form given a clear goal, good environment and good hiring practice, but it will take its own time. This stage is pretty much a curing stage - where it is only about enabling the teams.
+
+Scrum and Agile processes excelled in this areas in the beginning of that era. Team building exercises, team outings, social functions, ceremonies help build them. They expedite the process of forming and norming.
+
+A observer plays a important role in understanding the stages of forming and norming and facilitating that process - commonly labelled as a responsibility of scrum master or agile coach.
+
+>When they are ready, they know how to hunt as a pack. They will know how to get work done leveraging individuals strengths and organise themselves around it.
 
 ----
 ### Revisit later
