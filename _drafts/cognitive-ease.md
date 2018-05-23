@@ -1,4 +1,3 @@
-
 # Team Norms
 
 Each team is unique, each individuals are unique, each problem is unique.
