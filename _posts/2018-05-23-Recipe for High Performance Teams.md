@@ -1,3 +1,15 @@
+---
+layout: post
+title: "Recipe for High Performance Teams"
+date: 2018-05-23
+categories:
+  - leadership
+  - teams
+description:
+image: https://source.unsplash.com/collection/599894/800x600
+image-sm: https://source.unsplash.com/collection/599894/1600x900
+---
+
 # High Performance Teams
 
 Recently on LinkedIn, one of my past colleague posted a question that made me share my beleifs and learnings from being part of as well as creating, tendering and fostering high performance teams.
@@ -93,32 +105,44 @@ A observer plays a important role in understanding the stages of forming and nor
 
 ## Supporting a team in their Pursuit
 
-Here is a role of leader, who has established a clear goal and set up a team that is pursuing it. Like any stories goes the team goes through challenges. Challenges that some time question the purpose of the team, sometimes test the fabric of togetherness in the team.
+Here is a role of leader, who has established a clear goal and set up a team that is pursuing it. Like any stories goes the team goes through challenges. Challenges that sometime question the purpose of the team, sometimes test the fabric of togetherness in the team, that sometimes tries to swallow the team.
 
-I am pretty sure, we have all been through it and how it feels like when,
+They require help. Sometimes they know exactly what they need, sometimes they don't. Sometimes, they can explain what they need and sometimes they can't explain it clearly. Even sometimes what they think they want can't be taken at a face value.
 
-* People stepping up on each other toes and finding what used to collaborative set up in changing to the worse
-* A team encouters a failure
-* stumbles upon a roadblock and not finding a way out
-* Losing morale due to environmental changes
-* Losses team due to lack of knowledge or experience
-* Emergence of an tangential incentive away from the goal
+This is where a Leaders ability comes to test. Like a child, they sometimes look up for help. I knew a leader who is just amazing in this quality. He plays an entertainers role in the team and fixes things.
 
-So what does the Leader do when things like this happen? Simple, they back the team. Like it is important that individuals in the team back each other, it is equally important the team gets the support.
+Let me tell about him. We were working on fix bid time sensitive project at that time. The team has been awesome and getting things done at a great pace. But as pressure against the delivery date start building, there was sense of tension that built up on the floor. You can sense people getting frustrated, tired and are going to break. This Manager who has least knowledge about the technology, business domain that we are working on was very innovative. He started embedding himselves in the team, and his own style started entertaning the team. He started brings treats to office, games to play. He even threw some impromptu parties and dance all during business hours in the office.
 
-Backing here means doing several things. I know a successful Leader/Manager, who used to play the role of a entertainer. Let me tell about him. We were working on fix bid time sensitive project at that time. The team has been awesome and getting things done at a great pace. But as pressure against the delivery date start building, there was sense of tension that builds up every now and then. This Manager who has least knowledge about the technology, business domain that we are working on was very innovative. He understood that the pace at which we are working is not sustainable unless we have fun and enjoy things ensured every single day there is some surprise to the team. Be it ordering innovative food, celebrating random reasons with grandness or just playing music and impromptu dance on the floor. He was very successful in lightening the situation.
+While one might see them as interruptions to work and delay things being delivered. He in the hindsight loosened up the things, releived tension and let the team keep firing at the rate it was doing without breaking down. We were able to finish it within the time albeit we reduced the some low value scope. Overall the delivered delivered a high value leading to a multi million business.
 
-That is just an example to tell that Leaders are responsible and have to be innovative to ensure that team stays highly performant.
+So, there is no one way to support a team. I think the narrative is important, when team is struggling they need support and the leaders suppor them.
 
-Some of the things that I noticed are,
+Here are few things, I have seen or did supporting a team,
 
-1. Be entertainers when tension builds up and losen the tension
-1. Support by providing training
-1. Support by providing some perks and incentives to keep them motivated
-1. Brining external experts to help the situation
-1. Organising team activities
-1. Moderating incentives and KPI's
-1. and most of all staying in touch with the team.
+* Be entertainers when tension builds up in the team
+* Support by providing training
+* Support by providing some perks and incentives to keep them motivated
+* Bringing external experts to help the situation
+* Organising team activities
+* Moderating incentives and KPI's
+* Most of all staying and checking in with team.
+* Ensuring they understand the importance of work they do for the business
+* Share motivating and tell them how valuable they are for the organisation
+* Negotiating the scope and outcomes
+
+This list is not definitely exhaustive to say the least.
+
+## Do Anything That They Set Their Minds On
+
+This may sounds like a bit exaggeration, I agree, but you know what we humans. We have learnt in several times in the past that nothing is impossible.
+
+We just need the time, effort, support and the environment to get there. Sometimes they are viable and sometimes they are not viable. That is all the difference is.
+
+Lets go conquer!
+
+### A Piece of Request
+
+If you find any piece of this write up doesn't stack up, confusing or not clear, please let me know. I am happy to learn, correct, explain, understand and ensure the content written makes sense.
 
 
 ----
