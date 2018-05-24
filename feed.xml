@@ -5,9 +5,168 @@
     <description></description>
     <link>https://humblelistener.github.io/</link>
     <atom:link href="https://humblelistener.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 12 Jul 2017 00:37:57 +1000</pubDate>
-    <lastBuildDate>Wed, 12 Jul 2017 00:37:57 +1000</lastBuildDate>
-    <generator>Jekyll v3.4.3</generator>
+    <pubDate>Thu, 24 May 2018 08:54:34 +0800</pubDate>
+    <lastBuildDate>Thu, 24 May 2018 08:54:34 +0800</lastBuildDate>
+    <generator>Jekyll v3.8.2</generator>
+    
+      <item>
+        <title>Recipe for High-Performance Teams</title>
+        <description>&lt;h1 id=&quot;high-performance-teams&quot;&gt;High-Performance Teams&lt;/h1&gt;
+
+&lt;p&gt;Recently on LinkedIn, one of my past colleagues posted a question that made me share my beliefs and learnings from being part of as well as creating, tendering and fostering high-performance teams.&lt;/p&gt;
+
+&lt;p&gt;Following was my answer to the post. It seems to have resonated with quite a few people.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Give a clear goal, provide autonomy in execution, create a psychologically safe environment, build a sense of team and support them in their pursuit. Do this and your team will get anything that they set their minds on.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I called this my mantra for high-performance teams.&lt;/p&gt;
+
+&lt;p&gt;Given it resonated with quite a few people, I thought there is worth in further explaining my thoughts about each of these parameters in creating a high-performance team, so as to validate my learnings as well as help others to align what they understood and benefit each other.&lt;/p&gt;
+
+&lt;h2 id=&quot;word-of-caution&quot;&gt;Word of caution&lt;/h2&gt;
+
+&lt;p&gt;You know what, it is not that you can create such teams just like that - like one day I walk into my office and with my new realisation over the weekend reading a LinkedIn post, I will today create a high-performance team. We all know that it does not work that way.&lt;/p&gt;
+
+&lt;p&gt;So, let’s get to it.&lt;/p&gt;
+
+&lt;h2 id=&quot;significance-of-clear-goal&quot;&gt;Significance of Clear Goal&lt;/h2&gt;
+
+&lt;p&gt;At the crux of any high-performance team is the goal. Without a goal, the team need not exist. But where it gets tricky and often gets lost is making the goal clearly understandable for everyone.&lt;/p&gt;
+
+&lt;p&gt;I personally find the monetary goals to be very tricky but usually common. Sometimes they don’t get accompanied by any context that emphasises on what business values.&lt;/p&gt;
+
+&lt;p&gt;I don’t think organisations lack context, I think they just fail to make it clear.&lt;/p&gt;
+
+&lt;p&gt;Consider this goal; &lt;em&gt;Generate revenue of $500,000 in the next one year&lt;/em&gt;, set by the company that is scaling and dreaming of exponential growth. It lacks crucial context that guides a team to make decisions.&lt;/p&gt;
+
+&lt;p&gt;While it might be obvious for the higher ups in the business that it is not acceptable to achieve it by taxing existing customers, unless this is clearly stated and communicated, chances are people are going to miss it. And we all know Murphy’s law is so true.&lt;/p&gt;
+
+&lt;p&gt;And there is this that I keep repeating to my business people,&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;we all hire smart people to solve problems in our business, if we are not making the problem obvious, damn! they are smart people and they are still going to solve &lt;em&gt;some problem&lt;/em&gt;. You can only pray that the problem they solve helps the business.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;So spend the time to ask why to business outcomes, when people want something, they have reasons. Sometimes it is easy for them to assume people know them or just that they are obvious.&lt;/p&gt;
+
+&lt;p&gt;In my experience &lt;em&gt;It surely pays to reason out and comprehensively describe the purpose of the goal.&lt;/em&gt; as you know what at the end of day &lt;em&gt;people who work to achieve the goal take decisions every day in an effort to help achieve it and you don’t want to leave there decisions subject to interpretation&lt;/em&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;autonomy-in-execution&quot;&gt;Autonomy in Execution&lt;/h2&gt;
+
+&lt;p&gt;Once a goal is clearly defined, how a team executes this goal should be completely under the control of the team.&lt;/p&gt;
+
+&lt;p&gt;To make a sense of it, let’s take a step back,
+Gone or those days where people are considered homogeneous resource. Successful leaders have learned that every individual is unique, each has their strength, weakness, opinions, preferences, personalities, which in essence qualify them.&lt;/p&gt;
+
+&lt;p&gt;Similarly, when a group of individuals come together, depending on the culture, background, individual qualities and personalities norms are formed. While they need to be fostered and cured towards a healthy culture, it is fairly obvious that the strengths and weakness of these teams vary.&lt;/p&gt;
+
+&lt;p&gt;So, a similar problem may require dealing different differently with different teams.&lt;/p&gt;
+
+&lt;p&gt;I don’t think anyone other than parents of young children can relate to this more. In my own family, I have two kids who have a completely different way of getting things done. When I give a similar activity to them, they take different routes. Kavin gets more immersed in the activity and comes out successful and won’t like to be disturbed till then. It demonstrates passion and focus. While Shakthi, is very social, she gets help, pleases people, gets work done while taking it easy. It should be noted that these qualities to change from time to time.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Individual or team, they have unique qualities and personalities. To be successful one has to play to their strength. Giving that freedom to play any game for the personalities strength is what autonomy in execution is about.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Having said that, a few years back I would have told that team needs to be - “just autonomous”. Of course, I have learned in the last few years that it is easy to stretch the boundaries of autonomy and end up being in a state where it is costly to fix or surface. Partly Leadership has an important play in it. However, I did learn that describing the boundaries of autonomy is important. While I like that High-performance teams challenge the outcomes of the business, it is not acceptable to build an environment where teams take rogue decisions and not being transparent in communication. Hence it is important to define the boundary of autonomy per problem being dealt with. I personally found the execution independence to be a safe boundary to start with.&lt;/p&gt;
+
+&lt;h2 id=&quot;psychologically-safe-environment&quot;&gt;Psychologically Safe Environment&lt;/h2&gt;
+
+&lt;p&gt;Have you been in a situation like this before,&lt;/p&gt;
+
+&lt;p&gt;I used to have a colleague who constantly establishes his superiority in conversations. Every time after we finished a problem-solving discussion or coding session, I always felt insignificant or plain dumb. I felt agitated and frustrated coming out of the conversations. I, in fact, can see how silly I have been and see how they are totally unlike me.&lt;/p&gt;
+
+&lt;p&gt;I took me a while to understand that there were several forces playing in such sessions. I seem to be constantly getting caught with trivial parts of conversation where superiority and sense of pride were being manipulated triggering by my survival instincts and threat responses that I lost my nature and tried to hold ground for things that are petty and useless.&lt;/p&gt;
+
+&lt;p&gt;While in the hindsight, I consider such cultural misfits should be straight away avoided in teams - and organisations should hire for culture, it could have well been the organisations set up and incentivisation that lead to this.&lt;/p&gt;
+
+&lt;p&gt;It is important to keep in mind that in any situation &lt;em&gt;a team strengths should be greater than the sum of individuals.&lt;/em&gt; Clearly not how it was with my experience above.&lt;/p&gt;
+
+&lt;p&gt;Personally, it took me a while to handle such personalities. But I don’t think they are necessary for the modern workplace - the threat response, the animal instinct. We want individuals to be able to give their best and that threats and animal instincts are not how we want to stimulate them.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;It is true that animal instincts and threats do enable living beings to deliver beyond their normal capacity like a Gazel dodging and escaping a Leopard. One has to keep in mind though that Gazel and Leopard do not have any commonality in their goal or they work together.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Having members of the team playing like that means that the net strength of a team falls below the sum of the individual strengths. This quite obviously does not help build a high-performance team.&lt;/p&gt;
+
+&lt;p&gt;So, what do we do? It is worth ensuring that people are not threatened in their workplace. They need to feel comfortable to share their thoughts, their opinions without feeling that they are manipulated of made fun of or being noted/ignored. They need to be able to present themselves without any concern, fear or worry. Only then they can bring their best.&lt;/p&gt;
+
+&lt;p&gt;It definitely requires moderation and coaching especially if this is fairly new to the team or organisation, It does take its norming time between members of the team.&lt;/p&gt;
+
+&lt;p&gt;Hiring for culture and Leaders in the organisation have an important role in making it possible.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;A psychologically safe team is one where _the net strength of a team is not just greater than the sum of their individual strength but where it is exponentially higher.
+Diversity plays an important role in enabling this exponential strength.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;building-a-sense-of-team&quot;&gt;Building a sense of team&lt;/h2&gt;
+
+&lt;p&gt;Providing Psycologically safe environment is a start. It is like a tendered and a cured ground where diverse seeds are just starting to grow. They need moderation, they need to understand their roles in the game. They need to know that they are going to hunt together. They need to form that relationship. They need to understand each other. They need to be able to pick up, what is to be ignored when said by an individual vs another. Learn and adapt to understand how individuals express their thoughts, what is their norm etc. This happens in every relationship but teams are not an exception.&lt;/p&gt;
+
+&lt;p&gt;If not supported, they will still form given a clear goal, good environment and good hiring practice, but it will take its own time. This stage is pretty much a curing stage - where it is only about enabling the teams.&lt;/p&gt;
+
+&lt;p&gt;Scrum and Agile processes excelled in these areas at the beginning of that era. Team building exercises, team outings, social functions, ceremonies help build them. They expedite the process of forming and norming.&lt;/p&gt;
+
+&lt;p&gt;An observer plays an important role in understanding the stages of forming and norming and facilitating that process - commonly labelled as a responsibility of scrum master or agile coach.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;When they are ready, they know how to hunt as a pack. They will know how to get work done leveraging individuals strengths and organise themselves around it.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;supporting-a-team-in-their-pursuit&quot;&gt;Supporting a team in their Pursuit&lt;/h2&gt;
+
+&lt;p&gt;Here is a role of leader, who has established a clear goal and set up a team that is pursuing it. Like any stories goes the team goes through challenges. Challenges that sometimes question the purpose of the team, sometimes test the fabric of togetherness in the team, that sometimes tries to swallow the team.&lt;/p&gt;
+
+&lt;p&gt;They require help. Sometimes they know exactly what they need, sometimes they don’t. Sometimes, they can explain what they need and sometimes they can’t explain it clearly. Even sometimes what they think they want can’t be taken at a face value.&lt;/p&gt;
+
+&lt;p&gt;This is where a Leaders ability comes to test. Like a child, they sometimes look up for help. I knew a leader who is just amazing in this quality. He plays an entertainers role in the team and fixes things.&lt;/p&gt;
+
+&lt;p&gt;Let me tell about him. We were working on fix bid time sensitive project at that time. The team has been awesome and getting things done at a great pace. But as pressure against the delivery date start building, there was a sense of tension that built up on the floor. You can sense people getting frustrated, tired and are going to break. This Manager who has least knowledge about the technology, business domain that we are working on was very innovative. He started embedding himself in the team, and his own style started entertaining the team. He started brings treats to the office, games to play. He even threw some impromptu parties and dance all during business hours in the office.&lt;/p&gt;
+
+&lt;p&gt;While one might see them as interruptions to work and delay things being delivered. In the hindsight, we all could feel how he loosened up the pressure, relieved tension and let the team keep firing at the rate it was doing without breaking down. We were able to finish it within the time albeit we reduced some low-value scope. Overall the team delivered a high value leading to a multi-million business.&lt;/p&gt;
+
+&lt;p&gt;So, there is no one way to support a team. I think the narrative is important when the team is struggling they need support and the leaders support them.&lt;/p&gt;
+
+&lt;p&gt;Here are few things, I have seen or did to support a team,&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Be entertainers when tension builds up in the team&lt;/li&gt;
+  &lt;li&gt;Support by providing training&lt;/li&gt;
+  &lt;li&gt;Support by providing some perks and incentives to keep them motivated&lt;/li&gt;
+  &lt;li&gt;Bringing external experts to help the situation&lt;/li&gt;
+  &lt;li&gt;Organising team activities&lt;/li&gt;
+  &lt;li&gt;Moderating incentives and KPI’s&lt;/li&gt;
+  &lt;li&gt;Most of all staying and checking in with the team.&lt;/li&gt;
+  &lt;li&gt;Ensuring they understand the importance of work they do for the business&lt;/li&gt;
+  &lt;li&gt;Share motivating and tell them how valuable they are for the organisation&lt;/li&gt;
+  &lt;li&gt;Negotiating the scope and outcomes&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This list is not definitely exhaustive.&lt;/p&gt;
+
+&lt;h2 id=&quot;do-anything-that-they-set-their-minds-on&quot;&gt;Do Anything That They Set Their Minds On&lt;/h2&gt;
+
+&lt;p&gt;This may sound like a bit exaggeration, I agree, but you know what we humans. We have learnt in several times in the past that nothing is impossible.&lt;/p&gt;
+
+&lt;p&gt;We just need the time, effort, support and the environment to get there. Sometimes they are viable and sometimes they are not viable. That is all the difference is.&lt;/p&gt;
+
+&lt;p&gt;Let’s go conquer!&lt;/p&gt;
+
+&lt;h3 id=&quot;a-piece-of-request&quot;&gt;A Piece of Request&lt;/h3&gt;
+
+&lt;p&gt;If you find any piece of this write up doesn’t stack up, confusing or not clear, please let me know. I am happy to learn, correct, explain, understand and ensure the content written makes sense.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 23 May 2018 00:00:00 +0800</pubDate>
+        <link>https://humblelistener.github.io/2018/05/23/Recipe-for-High-Performance-Teams/</link>
+        <guid isPermaLink="true">https://humblelistener.github.io/2018/05/23/Recipe-for-High-Performance-Teams/</guid>
+        
+        
+        <category>leadership</category>
+        
+        <category>teams</category>
+        
+      </item>
     
       <item>
         <title>Organisations existence</title>
@@ -79,7 +238,7 @@ Mindtree brings robust skills and forward looking perspectives to solve customer
 
 &lt;p&gt;Else it is as good as calling it &lt;em&gt;a life wasted.&lt;/em&gt;&lt;/p&gt;
 </description>
-        <pubDate>Mon, 10 Jul 2017 00:00:00 +1000</pubDate>
+        <pubDate>Mon, 10 Jul 2017 00:00:00 +0800</pubDate>
         <link>https://humblelistener.github.io/2017/07/10/Organisations-existene/</link>
         <guid isPermaLink="true">https://humblelistener.github.io/2017/07/10/Organisations-existene/</guid>
         
@@ -137,7 +296,7 @@ Mindtree brings robust skills and forward looking perspectives to solve customer
 
 &lt;p&gt;Till then, Cheers!&lt;/p&gt;
 </description>
-        <pubDate>Sun, 11 Jun 2017 00:00:00 +1000</pubDate>
+        <pubDate>Sun, 11 Jun 2017 00:00:00 +0800</pubDate>
         <link>https://humblelistener.github.io/2017/06/11/beta-environment-on-aws-for-large-monolith-applications/</link>
         <guid isPermaLink="true">https://humblelistener.github.io/2017/06/11/beta-environment-on-aws-for-large-monolith-applications/</guid>
         
@@ -185,7 +344,7 @@ Mindtree brings robust skills and forward looking perspectives to solve customer
 
 &lt;p&gt;I shall share more details on how it went. In the meanwhile, I am to learn from your experience, if you leave comments.&lt;/p&gt;
 </description>
-        <pubDate>Thu, 04 May 2017 00:00:00 +1000</pubDate>
+        <pubDate>Thu, 04 May 2017 00:00:00 +0800</pubDate>
         <link>https://humblelistener.github.io/2017/05/04/When-you-lose-confidence-in-code/</link>
         <guid isPermaLink="true">https://humblelistener.github.io/2017/05/04/When-you-lose-confidence-in-code/</guid>
         
@@ -285,7 +444,7 @@ image credit &lt;a href=&quot;http://www.aleanjourney.com/2011/04/stages-of-high
 
 &lt;p&gt;&lt;em&gt;What do you think helped you feel safe when last time you found yourselves in a safe group set up?&lt;/em&gt;&lt;/p&gt;
 </description>
-        <pubDate>Tue, 04 Apr 2017 00:00:00 +1000</pubDate>
+        <pubDate>Tue, 04 Apr 2017 00:00:00 +0800</pubDate>
         <link>https://humblelistener.github.io/2017/04/04/Psychological-safety/</link>
         <guid isPermaLink="true">https://humblelistener.github.io/2017/04/04/Psychological-safety/</guid>
         
@@ -298,7 +457,7 @@ image credit &lt;a href=&quot;http://www.aleanjourney.com/2011/04/stages-of-high
         <title>Configure ssh on windows for using gitlab or github</title>
         <description>&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=G1cGAnFi8dQ&quot; title=&quot;Configure ssh on windows&quot;&gt;&lt;img src=&quot;http://img.youtube.com/vi/G1cGAnFi8dQ/0.jpg&quot; alt=&quot;Configure ssh on windows for using git&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Sun, 12 Mar 2017 00:00:00 +1100</pubDate>
+        <pubDate>Sun, 12 Mar 2017 00:00:00 +0800</pubDate>
         <link>https://humblelistener.github.io/2017/03/12/Ssh-configuring-on-windows/</link>
         <guid isPermaLink="true">https://humblelistener.github.io/2017/03/12/Ssh-configuring-on-windows/</guid>
         
@@ -358,7 +517,7 @@ b. code boundaries are incorrect, so we have to get more than repo built to get 
 
 &lt;p&gt;What causes the most frustration in your CI process?&lt;/p&gt;
 </description>
-        <pubDate>Thu, 23 Jun 2016 00:00:00 +1000</pubDate>
+        <pubDate>Thu, 23 Jun 2016 00:00:00 +0800</pubDate>
         <link>https://humblelistener.github.io/2016/06/23/Enabling-Continuous-integration-system/</link>
         <guid isPermaLink="true">https://humblelistener.github.io/2016/06/23/Enabling-Continuous-integration-system/</guid>
         
@@ -394,11 +553,10 @@ web.config,
 insert the following    &lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;  &amp;lt;defaultProxy&amp;gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;  &amp;lt;defaultProxy&amp;gt;
     &amp;lt;proxy autoDetect=&quot;true&quot; proxyaddress=&quot;http://127.0.0.1:8888&quot;/&amp;gt;        
   &amp;lt;/defaultProxy&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;ol&gt;
   &lt;li&gt;If all this did not solve, ensure that fiddler is point to port 8888
@@ -413,7 +571,7 @@ traffic&quot;&lt;/code&gt;  is checked.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://docs.telerik.com/fiddler/configure-fiddler/tasks/decrypthttps/&quot;&gt;Telerik fiddler documentation&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Tue, 20 May 2014 00:00:00 +1000</pubDate>
+        <pubDate>Tue, 20 May 2014 00:00:00 +0800</pubDate>
         <link>https://humblelistener.github.io/2014/05/20/trace-webserver-service-http-calls/</link>
         <guid isPermaLink="true">https://humblelistener.github.io/2014/05/20/trace-webserver-service-http-calls/</guid>
         
@@ -467,7 +625,7 @@ Typically entry point, which works well if the feature is user interface related
   &lt;li&gt;Minimal risk as modifications are limited to existing code&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-        <pubDate>Sat, 13 Jul 2013 00:00:00 +1000</pubDate>
+        <pubDate>Sat, 13 Jul 2013 00:00:00 +0800</pubDate>
         <link>https://humblelistener.github.io/2013/07/13/feature-switching/</link>
         <guid isPermaLink="true">https://humblelistener.github.io/2013/07/13/feature-switching/</guid>
         
@@ -510,65 +668,12 @@ Couple of references about Readify&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://www.greatplacetowork.com.au/best-companies/best-places-to-work-in-australia&quot;&gt;Great places to work in Australia&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Tue, 21 May 2013 00:00:00 +1000</pubDate>
+        <pubDate>Tue, 21 May 2013 00:00:00 +0800</pubDate>
         <link>https://humblelistener.github.io/2013/05/21/resigned-from-mindtree/</link>
         <guid isPermaLink="true">https://humblelistener.github.io/2013/05/21/resigned-from-mindtree/</guid>
         
         
         <category>career</category>
-        
-      </item>
-    
-      <item>
-        <title>Unbind element in knockout using cleanNode</title>
-        <description>&lt;p&gt;Unbind element in Knockout using cleanNode&lt;/p&gt;
-
-&lt;p&gt;Recently, I came upon this problem where my JavaScript events were firing multiple times,
-I use both knockout and backbone in my application, where data-binding feature of knockout and Routing,  Events, history, Model of backbone are being used.&lt;/p&gt;
-
-&lt;p&gt;Here are some gist of my code&lt;/p&gt;
-
-&lt;p&gt;My nav view model shown below, has a movePrevious event, that is where the event is being triggered&lt;/p&gt;
-&lt;div class=&quot;gistLoad&quot; data-id=&quot;4455383&quot; id=&quot;gist-4455383&quot;&gt;
-Loading ....&lt;/div&gt;
-
-&lt;p&gt;By business view model handles the save group event as shown in the gist below&lt;/p&gt;
-&lt;div class=&quot;gistLoad&quot; data-id=&quot;4455377&quot; id=&quot;gist-4455377&quot;&gt;
-Loading ....&lt;/div&gt;
-
-&lt;p&gt;Here, though the “saveGroup” backbone event is being turned off during dispose the event still seemed to be firing.&lt;/p&gt;
-
-&lt;p&gt;Further looking into my view, gist below&lt;/p&gt;
-&lt;div class=&quot;gistLoad&quot; data-id=&quot;4455354&quot; id=&quot;gist-4455354&quot;&gt;
-Loading ....&lt;/div&gt;
-
-&lt;p&gt;you can see that my view uses knockout click binding.&lt;/p&gt;
-
-&lt;p&gt;Upon debugging the DOM element, I found that, for every time this view is being bound using ko.applyBinding the event is getting added to the dom element by knockout.&lt;/p&gt;
-
-&lt;p&gt;So, when I click on the hyperlink, the event is firing the number of times that view is bound to the view model.&lt;/p&gt;
-
-&lt;p&gt;To solve this, I have to unbind the view / DOM element every time before applying a fresh knockout binding.&lt;/p&gt;
-
-&lt;p&gt;Fortunately, knockout had this feature already that is available through ko.cleanNode function.&lt;/p&gt;
-
-&lt;p&gt;So, once I started calling this function every time before binding the view to view model the issue was fixed.&lt;/p&gt;
-
-&lt;h3 id=&quot;points-to-note&quot;&gt;Points to note:&lt;/h3&gt;
-&lt;ol&gt;
-&lt;li&gt;You have to unbind the DOM element / view every time before binding it with knockout again.&lt;/li&gt;
-&lt;li&gt;Turn off the Backbone events before you are about to lose the reference to your JavaScript object.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&lt;em&gt;References:&lt;/em&gt;
-While debugging this, I found &lt;a href=&quot;http://lostechies.com/derickbailey/2011/09/15/zombies-run-managing-page-transitions-in-backbone-apps&quot;&gt;this wonderful article&lt;/a&gt; that helped be understand the cleaning up required in javascript.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 04 Jan 2013 00:00:00 +1100</pubDate>
-        <link>https://humblelistener.github.io/2013/01/04/unbind-knockout-cleannode/</link>
-        <guid isPermaLink="true">https://humblelistener.github.io/2013/01/04/unbind-knockout-cleannode/</guid>
-        
-        
-        <category>programming</category>
         
       </item>
     
